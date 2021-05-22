@@ -29,6 +29,8 @@
   - Agile personalization [video](https://www.contentful.com/resources/agile-personalization-uniform-webinar/watch/)
 - ***Reign***
   - Sessions [live](https://headless-week-latam.reign.cl/es/)
+- ***HashiCorp Summit***
+  - June Conference [room](https://live.hashiconf.com/schedule) 
 - ***Geekle***
   - React Case Study Festival [youtube](https://www.youtube.com/playlist?list=PLnQIVBzL8WX4mocytpMsdKgsN_jh60qKN)
 - ***MongoDB***
