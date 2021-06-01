@@ -44,5 +44,8 @@
 - ***AWS***
   - How to use Infrastructure as Code to achieve DevOps at scale [video](https://pages.awscloud.com/awsmp-h2-dev-infrastructure-as-code-for-devops-at-scale-ty.html)
   -      
-- ***Suse - Audacity***
-  - [Status] (https://admissions.udacity.com/apply/suse-cloud-native-scholarship/submitted)
+- ***Suse - Udacity***
+  - [Status](https://admissions.udacity.com/apply/suse-cloud-native-scholarship/submitted)
+
+- ***AWS Machine Learning - Udacity***
+  - [Status](https://admissions.udacity.com/apply/aws-machine-learning-scholarship/submitted) 
