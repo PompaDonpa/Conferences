@@ -21,7 +21,12 @@
   - [S1:E2](https://clicks.eventbrite.com/f/a/dFfeOWXLOpzRZlzLyj9hrA~~/AAQxAQA~/RgRig8k6P0QyaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1YSDdiaHVTT05sVSZ0PTY1M3NXA3NwY0IKYKC6laJgxN-Ce1IZZGFuaWVsbmFyYW5qb0BwdXJzdWl0Lm9yZ1gEAAAAAA~~)
 - ***Galvanize***
   - Monitoring Machine Learning models [video](https://zoom.us/rec/play/wmt6GxsYfG3DRfwWvCAkBnGO7fhNHG4wK00RZ-WvnJWZR0132ANGB9noxzAwUu_2FejgIZnnRoBdvRcb.bnVjQcd2dlIKrE8k)
-  -    
+- ***CDO & Data Leaders' Global Summit 2021***
+  - [Conferences](http://edmc.informz.net/z/cjUucD9taT0xMDA0NDg4MiZwPTEmdT0xMTU2OTM0OTY5JmxpPTg3MDIxNjY0/index.html)
+- ***Austin Forum***
+  - [Events](https://www.austinforum.org/events.html)   
+
+
 # FullStack
 
 - ***Docker Live***
@@ -47,9 +52,13 @@
 - ***JS Nation***
   -  Getting Comfortable with Angular and UI [video](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL) 
   -  The Crash Course for Continuous Code Improvement [video](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)
+  -  Jamstack eCommerce 101 [video](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)
+  -  S Security Testing in GitHub Actions [video](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)
+  -  Build React-like apps for internal tooling 10x faster with Retool [video](https://gitnation.zoom.us/rec/share/Q-4CJ9aJs8X21E0S65crCGvZ48zly1aClgGAGdya9NV5rfDIyp1RlEuSON7e43as.27O_60ftPLAj_ExK)
+  -  Publishing, Automating and Monitoring your JS App on Azure [video](https://gitnation.zoom.us/rec/share/C9KrMQranjmwo6Pk7YVciqksGtjffNJG7tU87O4j7Gc5Nv8y8BH_5XJvb9H_UjcI.yvkAdB64QI0ccns8)
 - ***AWS***
   - How to use Infrastructure as Code to achieve DevOps at scale [video](https://pages.awscloud.com/awsmp-h2-dev-infrastructure-as-code-for-devops-at-scale-ty.html)
-  -      
+  - CI/CD Pipelines Hands-on Labs [video](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module2-cicd-pipelines-ty.html)     
 - ***Suse - Udacity***
   - [Status](https://admissions.udacity.com/apply/suse-cloud-native-scholarship/submitted)
 
