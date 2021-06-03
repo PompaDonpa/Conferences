@@ -24,6 +24,9 @@
   -    
 # FullStack
 
+- ***Docker Live***
+  - On Demand [video](https://email.docker.com/OTI5LUZKTC0xNzgAAAF9cPStRpKHp2gusiwlPFBazQYEWeDjm5ltptEvn30ews01qOqBkQd_-_K2s8Li_Qa9x_WP2g0=) 
+
 - ***Contentful***
   - Resources [video](https://www.contentful.com/resources/compose-and-launch/watch/?utm_medium=email&utm_source=newsletter&utm_campaign=may-2021-pre-customer-newsletter&utm_content=compose-and-launch&mkt_tok=NTk3LVBXUC0xNTYAAAF9KQ3DZVGIikp4lOMibeAFHQYvA1IxOhb7XdhXGK5UTOJD2IBzKHRIxol4RoD-f229Anj-8YScR7P4Qg6P-f0JhW8KW-HIUD0x1hfS5HM59Ob8) 
   - Agile personalization [video](https://www.contentful.com/resources/agile-personalization-uniform-webinar/watch/)
@@ -34,13 +37,16 @@
 - ***Geekle***
   - React Case Study Festival [youtube](https://www.youtube.com/playlist?list=PLnQIVBzL8WX4mocytpMsdKgsN_jh60qKN)
 - ***MongoDB***
+  - MongoDB.live 2021 [site](https://www.mongodb.com/live/agenda?utm_campaign=Int_MW_MongoDB.live_07_21_WW_Agenda%20Announced%20REGISTRANTS&utm_medium=email&utm_source=eloqua&utm_term=%C3%B0%C2%9F%C2%93%C2%A3%20It%27s%20here%21%20See%20the%20full%20session%20agenda%20for%20MongoDB.live) 
   - A Complete Methodology of Data Modeling for MongoDB [video](https://www.mongodb.com/presentations/a-complete-methodology-of-data-modeling-for-mongodb?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)
   - Data Modeling University Course [page](https://university.mongodb.com/courses/M320/about?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)
   - An Introduction to MongoDB Query API [video](https://www.mongodb.com/presentations/an-introduction-to-mongodb-query-api-webinar-recording-na?p=607f1965b1a6404e1b57972b&utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar) - [documentation](https://docs.mongodb.com/manual/crud/?utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)
   - 
 - ***Vue StoreFront***
   - Summit 2021 [youtube](https://www.youtube.com/playlist?list=PLIDwzUVxSXjOogIRgKI-RLXw40oce86W2) 
-
+- ***JS Nation***
+  -  Getting Comfortable with Angular and UI [video](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL) 
+  -  The Crash Course for Continuous Code Improvement [video](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)
 - ***AWS***
   - How to use Infrastructure as Code to achieve DevOps at scale [video](https://pages.awscloud.com/awsmp-h2-dev-infrastructure-as-code-for-devops-at-scale-ty.html)
   -      
