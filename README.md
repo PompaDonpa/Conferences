@@ -25,13 +25,17 @@
   - [Conferences](http://edmc.informz.net/z/cjUucD9taT0xMDA0NDg4MiZwPTEmdT0xMTU2OTM0OTY5JmxpPTg3MDIxNjY0/index.html)
 - ***Austin Forum***
   - [Events](https://www.austinforum.org/events.html)   
+- ***AntiMoney Laundry CDMO***
+  - AML Act Readiness [sheet](https://info.mastechinfotrellis.com/hubfs/AML%20Vault-2.pdf?utm_campaign=AML-Bonfire%20&utm_medium=email&_hsmi=131635247&_hsenc=p2ANqtz-8_WIcj-xe7QkYKZO1SWoZjWXrTC1aF5bB8Asq3tzSruq-rA3AJPi5TuYSMVFcRAb-txv5g2lpsgps3eOplZWuZZGfJ4x-SCsQNclIa3oUpja5stW4&utm_content=131635247&utm_source=hs_automation) 
 
 
 # FullStack
 
 - ***Docker Live***
   - On Demand [video](https://email.docker.com/OTI5LUZKTC0xNzgAAAF9cPStRpKHp2gusiwlPFBazQYEWeDjm5ltptEvn30ews01qOqBkQd_-_K2s8Li_Qa9x_WP2g0=) 
-
+- ***Sysdig***
+  - Top Dockerfile Security Best Practices [video](https://sysdig.com/resources/webinars/top-dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLblxYI8czYgsrduWZIlnUDuF5QH4QShZY2uhucuJwhXlera5-lHA-oZjNXIJ1lhhJd7SOgjLxVSLVWW7DU31odcAgvMm9lnpGUXS1IQg) [Presentation](https://sysdig.com/blog/dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLbunZy8GyRtzyKb7TX37eiD3guHeHI8tQvDnRO1D2I0rxd63qKb4-i3uNdSOBqzIpJ8BJs1j9498qaod9KEDKruNpww9JI1TaZmY-6Sg) 
+  - Dockerfile Best Practices [Doc - 1](https://dig.sysdig.com/c/pf-2020-container-security-snapshot?x=u_WFRi&topic=Kubernetes) [Doc - 2](https://dig.sysdig.com/c/pf-ebook-monitoring-docker-containers?x=u_WFRi&utm_source=gated-organic&utm_medium=website) [Falco Security Rules](https://sysdig.com/blog/docker-falco-security/)
 - ***Contentful***
   - Resources [video](https://www.contentful.com/resources/compose-and-launch/watch/?utm_medium=email&utm_source=newsletter&utm_campaign=may-2021-pre-customer-newsletter&utm_content=compose-and-launch&mkt_tok=NTk3LVBXUC0xNTYAAAF9KQ3DZVGIikp4lOMibeAFHQYvA1IxOhb7XdhXGK5UTOJD2IBzKHRIxol4RoD-f229Anj-8YScR7P4Qg6P-f0JhW8KW-HIUD0x1hfS5HM59Ob8) 
   - Agile personalization [video](https://www.contentful.com/resources/agile-personalization-uniform-webinar/watch/)
@@ -50,6 +54,7 @@
 - ***Vue StoreFront***
   - Summit 2021 [youtube](https://www.youtube.com/playlist?list=PLIDwzUVxSXjOogIRgKI-RLXw40oce86W2) 
 - ***JS Nation***
+  -   Full Stack Cloud Development with Next.js, AWS, and Tailwin [video](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-) - [repo](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)
   -  Getting Comfortable with Angular and UI [video](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL) 
   -  The Crash Course for Continuous Code Improvement [video](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)
   -  Jamstack eCommerce 101 [video](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)
@@ -59,6 +64,7 @@
 - ***AWS***
   - How to use Infrastructure as Code to achieve DevOps at scale [video](https://pages.awscloud.com/awsmp-h2-dev-infrastructure-as-code-for-devops-at-scale-ty.html)
   - CI/CD Pipelines Hands-on Labs [video](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module2-cicd-pipelines-ty.html)     
+  - Modernize your cloud-native security strategy [video](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9dvjYMIiunspCrLZ45JCgrecBHMRyFSB-MPalvvIo-2PwzJf-4B4rVI_8R83smr5vg7zTlxU=)
 - ***Suse - Udacity***
   - [Status](https://admissions.udacity.com/apply/suse-cloud-native-scholarship/submitted)
 
