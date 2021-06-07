@@ -41,6 +41,8 @@
   - Agile personalization [video](https://www.contentful.com/resources/agile-personalization-uniform-webinar/watch/)
 - ***Reign***
   - Sessions [live](https://headless-week-latam.reign.cl/es/)
+- ***Retool***
+  - [Template Libray](https://retool.com/templates/?utm_medium=email&_hsmi=126376023&_hsenc=p2ANqtz-89uHxvVgP_TJFvAbCj6rwPSQg5tW4t59GaEv6xtEp4cRByxbieWteBU0kwCs57XdBVbGuIc-3sDJcFRlOBwL7LMWoIGxkQtJbCMo6GPm2bceBN3z8&utm_content=126376023&utm_source=hs_automation)&emsp;  
 - ***HashiCorp Summit***
   - June Conference [room](https://live.hashiconf.com/schedule) 
 - ***Geekle***
