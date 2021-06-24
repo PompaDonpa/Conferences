@@ -142,9 +142,9 @@
 
 <div align="center">
 
-| <h4><b>Front end fest</b></h4> |  | <h4><b>Retool</b></h4> |   |
-|:----------:|:-:|:----------:|:-:|
-|Applitools|[\[site\]](https://www.youtube.com/playlist?list=PLkqF-NUszJY5NJJwIfFezmKLG8j6AEpKD)|Getting Started|[\[site\]](https://docs.retool.com/docs/quickstart)|
+| <h4><b>Front end fest</b></h4> |  | <h4><b>Retool</b></h4> |   | <h4><b>HashiCorp</b></h4> |  | <h4><b>Reign</b></h4> |   |
+|:----------:|:-:|:----------:|:-:|:----------:|:-:|:----------:|:-:|
+|Applitools|[\[site\]](https://www.youtube.com/playlist?list=PLkqF-NUszJY5NJJwIfFezmKLG8j6AEpKD)|Getting Started|[\[site\]](https://docs.retool.com/docs/quickstart)|June Conference|[\[room\]](https://live.hashiconf.com/schedule) |Sessions|[\[live\]](https://headless-week-latam.reign.cl/es/)|
 |Cypress|[\[site\]](https://www.youtube.com/playlist?list=PL8GlT7H3xOcIXrl0nXmyDBYztCKcVqQQg)|Template Library|[\[site\]](https://retool.com/templates/?utm_medium=email&_hsmi=126376023&_hsenc=p2ANqtz-89uHxvVgP_TJFvAbCj6rwPSQg5tW4t59GaEv6xtEp4cRByxbieWteBU0kwCs57XdBVbGuIc-3sDJcFRlOBwL7LMWoIGxkQtJbCMo6GPm2bceBN3z8&utm_content=126376023&utm_source=hs_automation)|
   
 </div>
@@ -157,13 +157,16 @@
 
 | Conference |   |   |
 |:----------:|:-:|:-:|
-|June Conference| - |[\[room\]](https://live.hashiconf.com/schedule) |
+|June Conference|[\[room\]](https://live.hashiconf.com/schedule) |
 
 ### - ***Reign***
 
 | Conference |   |   |
 |:----------:|:-:|:-:|
-|Sessions| - |[\[live\]](https://headless-week-latam.reign.cl/es/)|
+|Sessions|[\[live\]](https://headless-week-latam.reign.cl/es/)|
+
+
+
 
 
 ### - ***Docker Live***
