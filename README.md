@@ -77,9 +77,9 @@
 | Conference |   |   |
 |:----------:|:-:|:-:|
 |An Introduction to MongoDB Query API|[\[ documentation \]](https://docs.mongodb.com/manual/crud/?utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)|[\[video\]](https://www.mongodb.com/presentations/an-introduction-to-mongodb-query-api-webinar-recording-na?p=607f1965b1a6404e1b57972b&utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)|
-|MongoDB.live 202|[\[site\]](https://www.mongodb.com/live/agenda?utm_campaign=Int_MW_MongoDB.live_07_21_WW_Agenda%20Announced%20REGISTRANTS&utm_medium=email&utm_source=eloqua&utm_term=%C3%B0%C2%9F%C2%93%C2%A3%20It%27s%20here%21%20See%20the%20full%20session%20agenda%20for%20MongoDB.live)| |
-|A Complete Methodology of Data Modeling for MongoDB|[\[video\]](https://www.mongodb.com/presentations/a-complete-methodology-of-data-modeling-for-mongodb?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)| |
-|Data Modeling University Course|[\[page\]](https://university.mongodb.com/courses/M320/about?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)| |
+|MongoDB.live 202| |[\[ site \]](https://www.mongodb.com/live/agenda?utm_campaign=Int_MW_MongoDB.live_07_21_WW_Agenda%20Announced%20REGISTRANTS&utm_medium=email&utm_source=eloqua&utm_term=%C3%B0%C2%9F%C2%93%C2%A3%20It%27s%20here%21%20See%20the%20full%20session%20agenda%20for%20MongoDB.live)|
+|A Complete Methodology of Data Modeling for MongoDB| |[\[video\]](https://www.mongodb.com/presentations/a-complete-methodology-of-data-modeling-for-mongodb?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)|
+|Data Modeling University Course| |[\[page\]](https://university.mongodb.com/courses/M320/about?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)|
 
 </div>
 
@@ -113,9 +113,9 @@
 
 | Conference |   |   |   |  
 |:----------:|:-:|:-:|:-:|
-|Top Dockerfile Security Best Practices|[\[video\]](https://sysdig.com/resources/webinars/top-dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLblxYI8czYgsrduWZIlnUDuF5QH4QShZY2uhucuJwhXlera5-lHA-oZjNXIJ1lhhJd7SOgjLxVSLVWW7DU31odcAgvMm9lnpGUXS1IQg)|[\[Presentation\]](https://sysdig.com/blog/dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLbunZy8GyRtzyKb7TX37eiD3guHeHI8tQvDnRO1D2I0rxd63qKb4-i3uNdSOBqzIpJ8BJs1j9498qaod9KEDKruNpww9JI1TaZmY-6Sg)|
-|Dockerfile Best Practices|[\[Doc\]](https://dig.sysdig.com/c/pf-2020-container-security-snapshot?x=u_WFRi&topic=Kubernetes)|[\[Doc\]](https://dig.sysdig.com/c/pf-ebook-monitoring-docker-containers?x=u_WFRi&utm_source=gated-organic&utm_medium=website)|[\[Falco Security Rules\]](https://sysdig.com/blog/docker-falco-security/)|
-|Embedding security throughout your DevOps workflows|[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9vxHAjSyMsLkwpHpwmx0SZ4hTfAiQ9HnDMfWhRwJUbyALePfOsZztMrbM6-H2g4PNMf2FBhE=)| | |
+|Top Dockerfile Security Best Practices|[\[Presentation\]](https://sysdig.com/blog/dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLbunZy8GyRtzyKb7TX37eiD3guHeHI8tQvDnRO1D2I0rxd63qKb4-i3uNdSOBqzIpJ8BJs1j9498qaod9KEDKruNpww9JI1TaZmY-6Sg)|[\[video\]](https://sysdig.com/resources/webinars/top-dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLblxYI8czYgsrduWZIlnUDuF5QH4QShZY2uhucuJwhXlera5-lHA-oZjNXIJ1lhhJd7SOgjLxVSLVWW7DU31odcAgvMm9lnpGUXS1IQg)|
+|Dockerfile Best Practices|[\[Falco Security Rules\]](https://sysdig.com/blog/docker-falco-security/)|[\[Doc\]](https://dig.sysdig.com/c/pf-2020-container-security-snapshot?x=u_WFRi&topic=Kubernetes)|[\[Doc\]](https://dig.sysdig.com/c/pf-ebook-monitoring-docker-containers?x=u_WFRi&utm_source=gated-organic&utm_medium=website)|
+|Embedding security throughout your DevOps workflows| | |[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9vxHAjSyMsLkwpHpwmx0SZ4hTfAiQ9HnDMfWhRwJUbyALePfOsZztMrbM6-H2g4PNMf2FBhE=)|
 
 </div>
 
