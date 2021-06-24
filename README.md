@@ -157,7 +157,7 @@
 
 <div align="center">
 
-| <h4><b>Docker Live</b></h4> |  | <h4><b>Vue StoreFront</b></h4> |   | <h4><b>Geekle</b></h4> |  | <h4><b>Applitools</b></h4> |   |
+| <h2><b>Docker Live</b></h2> |  | <h2><b>Vue StoreFront</b></h2> |   | <h2><b>Geekle</b></h2> |  | <h2><b>Applitools</b></h2> |   |
 |:----------:|:-:|:----------:|:-:|:----------:|:-:|:----------:|:-:|
 |On Demand|[\[video\]](https://email.docker.com/OTI5LUZKTC0xNzgAAAF9cPStRpKHp2gusiwlPFBazQYEWeDjm5ltptEvn30ews01qOqBkQd_-_K2s8Li_Qa9x_WP2g0=)|Summit 2021|[\[youtube\]](https://www.youtube.com/playlist?list=PLIDwzUVxSXjOogIRgKI-RLXw40oce86W2)|React Case Study Festival|[\[youtube\]](https://www.youtube.com/playlist?list=PLnQIVBzL8WX4mocytpMsdKgsN_jh60qKN)|Transforming Software|[\[video\]](https://www.brighttalk.com/webcast/6505/491756?utm_campaign=communication_viewer_followup&utm_medium=email&utm_source=brighttalk-transact&utm_content=webcast)|
 
