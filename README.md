@@ -38,32 +38,32 @@
 <div align="center"><h3><b>JS Nation</b></h3></div>
 <div align="center">
   
-| Workshop |   |   |
-|:-----------------:|:-:|:---------:|
-|Publishing, Automating and Monitoring your JS App on Azure| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/pf-8wvlSS6-rE3RkVvJ1EtXQXHPFGaEltVtPaO1PO6Dd7sxiMmYL1TeWTlmNPa8l.FQtC94vQdIsW4aXY)|
-|Build React-like apps for internal tooling 10x faster with Retool | - |[\[zoom\]](https://gitnation.zoom.us/rec/share/JnwkRdCS8fvNklY4ogjB9v8sOF0egXUx96DNQjT4PaNE3a_77viK6Drn-yvr652u.DqiXpIFfLUeQxKMj)|
-|Build an IoT App With InfluxDB| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/J7K4BBudw2bl2ViQUAySVazxt1cNlKyA1y3cnqfkYlkvXosoStUZYEty4Ra1mSTF.25FFPGBxHJIF-foD)|
-|JS Security Testing in GitHub Actions| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)|
+| Workshop |  |
+|:-----------------:|:---------:|
+|Publishing, Automating and Monitoring your JS App on Azure|[\[zoom\]](https://gitnation.zoom.us/rec/share/pf-8wvlSS6-rE3RkVvJ1EtXQXHPFGaEltVtPaO1PO6Dd7sxiMmYL1TeWTlmNPa8l.FQtC94vQdIsW4aXY)|
+|Build React-like apps for internal tooling 10x faster with Retool |[\[zoom\]](https://gitnation.zoom.us/rec/share/JnwkRdCS8fvNklY4ogjB9v8sOF0egXUx96DNQjT4PaNE3a_77viK6Drn-yvr652u.DqiXpIFfLUeQxKMj)|
+|Build an IoT App With InfluxDB|[\[zoom\]](https://gitnation.zoom.us/rec/share/J7K4BBudw2bl2ViQUAySVazxt1cNlKyA1y3cnqfkYlkvXosoStUZYEty4Ra1mSTF.25FFPGBxHJIF-foD)|
+|JS Security Testing in GitHub Actions|[\[zoom\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)|
 |The Crash Course for Continuous Code Improvement | - |[\[zoom\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)|
-|Jamstack eCommerce 101| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)|
-|Build your own live streaming platform| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/iS2n66O_BaKl2d4WJYpxn_tcUlr7aOzUJKsOUpFw7S6UlvTW-wzgrTDdgC4bgk9e.Gh5yzp85yAP6zF-j)|
-|Full Stack Cloud Development with Next.js, AWS, and Tailwind| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/SM9XmLVJMXkEdBZpDvta9VLu8eCPqlBoIgJOSFcWQUeN-bx6drLb0dEHjhUQfA3D.bLGbqrh4KisSv_7X)|
-|Building a Hyper Fast Web Server with Deno | - |[\[zoom\]](https://gitnation.zoom.us/rec/share/8E9K4orTKNByCpk00xfV-jSCsWjQefvE2eV-maVq6nMecGmnv3rZR1ibdMwMKVyT.CJ19qlpATwb-PC-g)|
-|Shipping high performance Web Apps with Datadog and Real User Monitoring| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/e1qF682f9HlRqoJsNZ_lrCdeCfRx-ZJs3tx5Vkeik3wjgDl2jJ4VfDup5M2sLKZJ.7onpqAzAw0CYitZz)|
+|Jamstack eCommerce 101|[\[zoom\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)|
+|Build your own live streaming platform|[\[zoom\]](https://gitnation.zoom.us/rec/share/iS2n66O_BaKl2d4WJYpxn_tcUlr7aOzUJKsOUpFw7S6UlvTW-wzgrTDdgC4bgk9e.Gh5yzp85yAP6zF-j)|
+|Full Stack Cloud Development with Next.js, AWS, and Tailwind|[\[zoom\]](https://gitnation.zoom.us/rec/share/SM9XmLVJMXkEdBZpDvta9VLu8eCPqlBoIgJOSFcWQUeN-bx6drLb0dEHjhUQfA3D.bLGbqrh4KisSv_7X)|
+|Building a Hyper Fast Web Server with Deno |[\[zoom\]](https://gitnation.zoom.us/rec/share/8E9K4orTKNByCpk00xfV-jSCsWjQefvE2eV-maVq6nMecGmnv3rZR1ibdMwMKVyT.CJ19qlpATwb-PC-g)|
+|Shipping high performance Web Apps with Datadog and Real User Monitoring|[\[zoom\]](https://gitnation.zoom.us/rec/share/e1qF682f9HlRqoJsNZ_lrCdeCfRx-ZJs3tx5Vkeik3wjgDl2jJ4VfDup5M2sLKZJ.7onpqAzAw0CYitZz)|
 
 </div>
 
 <div align="center">
 
-|Conference|   |   |   |
-|:--------:|:-:|:-:|:-:|
-|Full Stack Cloud Development with Next.js, AWS, and Tailwin&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-)|&emsp;[\[repo\]](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)&emsp;|
-|Getting Comfortable with Angular and UI&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL)| |
-|The Crash Course for Continuous Code Improvement&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)| |
-|Jamstack eCommerce 101&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)| |
-|S Security Testing in GitHub Actions&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)| |
-|Build React-like apps for internal tooling 10x faster with Retool&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/Q-4CJ9aJs8X21E0S65crCGvZ48zly1aClgGAGdya9NV5rfDIyp1RlEuSON7e43as.27O_60ftPLAj_ExK)| |
-|Publishing, Automating and Monitoring your JS App on Azure&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/C9KrMQranjmwo6Pk7YVciqksGtjffNJG7tU87O4j7Gc5Nv8y8BH_5XJvb9H_UjcI.yvkAdB64QI0ccns8)| |
+|Conference|   |   |
+|:--------:|:-:|:-:|
+|Full Stack Cloud Development with Next.js, AWS, and Tailwin&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-)|&emsp;[\[repo\]](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)&emsp;|
+|Getting Comfortable with Angular and UI&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL)| |
+|The Crash Course for Continuous Code Improvement&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)| |
+|Jamstack eCommerce 101&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)| |
+|S Security Testing in GitHub Actions&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)| |
+|Build React-like apps for internal tooling 10x faster with Retool&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/Q-4CJ9aJs8X21E0S65crCGvZ48zly1aClgGAGdya9NV5rfDIyp1RlEuSON7e43as.27O_60ftPLAj_ExK)| |
+|Publishing, Automating and Monitoring your JS App on Azure&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/C9KrMQranjmwo6Pk7YVciqksGtjffNJG7tU87O4j7Gc5Nv8y8BH_5XJvb9H_UjcI.yvkAdB64QI0ccns8)| |
 
 </div>
 
@@ -74,12 +74,12 @@
 <div align="center"><h3><b>Mongo DB</b></h3></div>
 <div align="center">
 
-| Conference |   |   |   |
-|:----------:|:-:|:-:|:-:|
-|An Introduction to MongoDB Query API| - |[\[video\]](https://www.mongodb.com/presentations/an-introduction-to-mongodb-query-api-webinar-recording-na?p=607f1965b1a6404e1b57972b&utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)|[\[ documentation \]](https://docs.mongodb.com/manual/crud/?utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)
-|MongoDB.live 202| - |[\[site\]](https://www.mongodb.com/live/agenda?utm_campaign=Int_MW_MongoDB.live_07_21_WW_Agenda%20Announced%20REGISTRANTS&utm_medium=email&utm_source=eloqua&utm_term=%C3%B0%C2%9F%C2%93%C2%A3%20It%27s%20here%21%20See%20the%20full%20session%20agenda%20for%20MongoDB.live)| |
-|A Complete Methodology of Data Modeling for MongoDB| - |[\[video\]](https://www.mongodb.com/presentations/a-complete-methodology-of-data-modeling-for-mongodb?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)| |
-|Data Modeling University Course| - |[\[page\]](https://university.mongodb.com/courses/M320/about?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)| |
+| Conference |   |   |
+|:----------:|:-:|:-:|
+|An Introduction to MongoDB Query API|[\[video\]](https://www.mongodb.com/presentations/an-introduction-to-mongodb-query-api-webinar-recording-na?p=607f1965b1a6404e1b57972b&utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)|[\[ documentation \]](https://docs.mongodb.com/manual/crud/?utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)
+|MongoDB.live 202|[\[site\]](https://www.mongodb.com/live/agenda?utm_campaign=Int_MW_MongoDB.live_07_21_WW_Agenda%20Announced%20REGISTRANTS&utm_medium=email&utm_source=eloqua&utm_term=%C3%B0%C2%9F%C2%93%C2%A3%20It%27s%20here%21%20See%20the%20full%20session%20agenda%20for%20MongoDB.live)| |
+|A Complete Methodology of Data Modeling for MongoDB|[\[video\]](https://www.mongodb.com/presentations/a-complete-methodology-of-data-modeling-for-mongodb?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)| |
+|Data Modeling University Course|[\[page\]](https://university.mongodb.com/courses/M320/about?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)| |
 
 </div>
 
@@ -92,12 +92,12 @@
 <div align="center"><h3><b>AWS</b></h3></div>
 <div align="center">
 
-| Conference |   |   |   |
-|:----------:|:-:|:-:|:-:|
-|How to use Infrastructure as Code to achieve DevOps at scale| - |[\[video\]](https://pages.awscloud.com/awsmp-h2-dev-infrastructure-as-code-for-devops-at-scale-ty.html)|
-|CI/CD Pipelines Hands-on Labs| - |[\[video\]](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module2-cicd-pipelines-ty.html)|
-|Modernize your cloud-native security strategy| - |[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9dvjYMIiunspCrLZ45JCgrecBHMRyFSB-MPalvvIo-2PwzJf-4B4rVI_8R83smr5vg7zTlxU=)|
-|How InfluxDB Enables NodeSource to Run Extreme Levels of Node.js Processes| - |[\[video\]](https://www.influxdata.com/resources/how-influxdb-enables-nodesource-to-run-extreme-levels-of-node-js-processes/?utm_source=nurture&utm_medium=email&utm_campaign=2021-06-09_spnsr-webinar_jsnation_gitnation&utm_content=sequence)|  
+| Conference |   |
+|:----------:|:-:|
+|How to use Infrastructure as Code to achieve DevOps at scale|[\[video\]](https://pages.awscloud.com/awsmp-h2-dev-infrastructure-as-code-for-devops-at-scale-ty.html)|
+|CI/CD Pipelines Hands-on Labs|[\[video\]](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module2-cicd-pipelines-ty.html)|
+|Modernize your cloud-native security strategy|[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9dvjYMIiunspCrLZ45JCgrecBHMRyFSB-MPalvvIo-2PwzJf-4B4rVI_8R83smr5vg7zTlxU=)|
+|How InfluxDB Enables NodeSource to Run Extreme Levels of Node.js Processes|[\[video\]](https://www.influxdata.com/resources/how-influxdb-enables-nodesource-to-run-extreme-levels-of-node-js-processes/?utm_source=nurture&utm_medium=email&utm_campaign=2021-06-09_spnsr-webinar_jsnation_gitnation&utm_content=sequence)|  
 
 </div>
 
@@ -111,11 +111,11 @@
 <div align="center"><h3><b>Sysdig</b></h3></div>
 <div align="center">
 
-| Conference |   |   |   |   |   
-|:----------:|:-:|:-:|:-:|:-:|
-|Top Dockerfile Security Best Practices| - |[\[video\]](https://sysdig.com/resources/webinars/top-dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLblxYI8czYgsrduWZIlnUDuF5QH4QShZY2uhucuJwhXlera5-lHA-oZjNXIJ1lhhJd7SOgjLxVSLVWW7DU31odcAgvMm9lnpGUXS1IQg)|[\[Presentation\]](https://sysdig.com/blog/dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLbunZy8GyRtzyKb7TX37eiD3guHeHI8tQvDnRO1D2I0rxd63qKb4-i3uNdSOBqzIpJ8BJs1j9498qaod9KEDKruNpww9JI1TaZmY-6Sg)|
-|Dockerfile Best Practices| - |[\[Doc\]](https://dig.sysdig.com/c/pf-2020-container-security-snapshot?x=u_WFRi&topic=Kubernetes)|[\[Doc\]](https://dig.sysdig.com/c/pf-ebook-monitoring-docker-containers?x=u_WFRi&utm_source=gated-organic&utm_medium=website)|[\[Falco Security Rules\]](https://sysdig.com/blog/docker-falco-security/)|
-|Embedding security throughout your DevOps workflows| - |[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9vxHAjSyMsLkwpHpwmx0SZ4hTfAiQ9HnDMfWhRwJUbyALePfOsZztMrbM6-H2g4PNMf2FBhE=)| | |
+| Conference |   |   |   |  
+|:----------:|:-:|:-:|:-:|
+|Top Dockerfile Security Best Practices|[\[video\]](https://sysdig.com/resources/webinars/top-dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLblxYI8czYgsrduWZIlnUDuF5QH4QShZY2uhucuJwhXlera5-lHA-oZjNXIJ1lhhJd7SOgjLxVSLVWW7DU31odcAgvMm9lnpGUXS1IQg)|[\[Presentation\]](https://sysdig.com/blog/dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLbunZy8GyRtzyKb7TX37eiD3guHeHI8tQvDnRO1D2I0rxd63qKb4-i3uNdSOBqzIpJ8BJs1j9498qaod9KEDKruNpww9JI1TaZmY-6Sg)|
+|Dockerfile Best Practices|[\[Doc\]](https://dig.sysdig.com/c/pf-2020-container-security-snapshot?x=u_WFRi&topic=Kubernetes)|[\[Doc\]](https://dig.sysdig.com/c/pf-ebook-monitoring-docker-containers?x=u_WFRi&utm_source=gated-organic&utm_medium=website)|[\[Falco Security Rules\]](https://sysdig.com/blog/docker-falco-security/)|
+|Embedding security throughout your DevOps workflows|[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9vxHAjSyMsLkwpHpwmx0SZ4hTfAiQ9HnDMfWhRwJUbyALePfOsZztMrbM6-H2g4PNMf2FBhE=)| | |
 
 </div>
 
@@ -127,11 +127,11 @@
 
 <div align="center">
 
-| <h4><b>Contentful</b></h4> |   |   | <h4><b>Rollbar</b></h4> |   |   |
-|:----------:|:-:|:-:|:----------:|:-:|:-:|
-|Resources| - |[\[video\]](https://www.contentful.com/resources/compose-and-launch/watch/?utm_medium=email&utm_source=newsletter&utm_campaign=may-2021-pre-customer-newsletter&utm_content=compose-and-launch&mkt_tok=NTk3LVBXUC0xNTYAAAF9KQ3DZVGIikp4lOMibeAFHQYvA1IxOhb7XdhXGK5UTOJD2IBzKHRIxol4RoD-f229Anj-8YScR7P4Qg6P-f0JhW8KW-HIUD0x1hfS5HM59Ob8) | | - | |
-|Agile personalization| - |[\[video\]](https://www.contentful.com/resources/agile-personalization-uniform-webinar/watch/)|Accelerating Code Quality with the DORA Metrics| - |[\[video\]](https://www.youtube.com/watch?v=J9FbG-BNdAM)|
-|Global marketing and localization| - |[\[video\]](https://www.contentful.com/resources/product-demo-global-marketing-localization/?utm_medium=email&utm_source=newsletter&utm_campaign=june-2021-pre-customer-newsetter&utm_content=product-demo&mkt_tok=NTk3LVBXUC0xNTYAAAF9uUB_d-CDjEhcAKhKzAl-Z98M5lTQew7fUTwD4nxSgFl7us4C9NR-EUutsze-phBjs7uTH4aCQa5TNXWYwVKyyuRGLicFPC_ZBujmLcbMstvv)|JavaScript Guides| - |[\[Doc\]](https://rollbar.com/guides/javascript/?utm_campaign=growth-gitnation-the-welcome-email&utm_medium=email&_hsmi=134586061&_hsenc=p2ANqtz-_GhoS4JdtGJCG_MaUKTM222QgiSClBPPhGaSkPaEbELqRXfKcf0JFp6nsyJG2lt0ZjBMmdH7QSTl38kR9qzaebredEVxuT-SIKdSoyCU2w9DaxbwY&utm_source=hubspot)  |
+| <h4><b>Contentful</b></h4> |   | <h4><b>Rollbar</b></h4> |  |
+|:----------:|:-:|:----------:|:-:|
+|Resources|[\[video\]](https://www.contentful.com/resources/compose-and-launch/watch/?utm_medium=email&utm_source=newsletter&utm_campaign=may-2021-pre-customer-newsletter&utm_content=compose-and-launch&mkt_tok=NTk3LVBXUC0xNTYAAAF9KQ3DZVGIikp4lOMibeAFHQYvA1IxOhb7XdhXGK5UTOJD2IBzKHRIxol4RoD-f229Anj-8YScR7P4Qg6P-f0JhW8KW-HIUD0x1hfS5HM59Ob8) | | |
+|Agile personalization|[\[video\]](https://www.contentful.com/resources/agile-personalization-uniform-webinar/watch/)|Accelerating Code Quality with the DORA Metrics|[\[video\]](https://www.youtube.com/watch?v=J9FbG-BNdAM)|
+|Global marketing and localization|[\[video\]](https://www.contentful.com/resources/product-demo-global-marketing-localization/?utm_medium=email&utm_source=newsletter&utm_campaign=june-2021-pre-customer-newsetter&utm_content=product-demo&mkt_tok=NTk3LVBXUC0xNTYAAAF9uUB_d-CDjEhcAKhKzAl-Z98M5lTQew7fUTwD4nxSgFl7us4C9NR-EUutsze-phBjs7uTH4aCQa5TNXWYwVKyyuRGLicFPC_ZBujmLcbMstvv)|JavaScript Guides|[\[Doc\]](https://rollbar.com/guides/javascript/?utm_campaign=growth-gitnation-the-welcome-email&utm_medium=email&_hsmi=134586061&_hsenc=p2ANqtz-_GhoS4JdtGJCG_MaUKTM222QgiSClBPPhGaSkPaEbELqRXfKcf0JFp6nsyJG2lt0ZjBMmdH7QSTl38kR9qzaebredEVxuT-SIKdSoyCU2w9DaxbwY&utm_source=hubspot)|
 
 </div>
 
@@ -154,32 +154,16 @@
 <br />
 
 
-### - ***Docker Live***
 
-| Conference |   |   |
-|:----------:|:-:|:-:|
-|On Demand| - |[\[video\]](https://email.docker.com/OTI5LUZKTC0xNzgAAAF9cPStRpKHp2gusiwlPFBazQYEWeDjm5ltptEvn30ews01qOqBkQd_-_K2s8Li_Qa9x_WP2g0=)|
+<div align="center">
 
+| <h4><b>Docker Live</b></h4> |  | <h4><b>Vue StoreFront</b></h4> |   | <h4><b>Geekle</b></h4> |  | <h4><b>Applitools</b></h4> |   |
+|:----------:|:-:|:----------:|:-:|:----------:|:-:|:----------:|:-:|
+|On Demand|[\[video\]](https://email.docker.com/OTI5LUZKTC0xNzgAAAF9cPStRpKHp2gusiwlPFBazQYEWeDjm5ltptEvn30ews01qOqBkQd_-_K2s8Li_Qa9x_WP2g0=)|Summit 2021|[\[youtube\]](https://www.youtube.com/playlist?list=PLIDwzUVxSXjOogIRgKI-RLXw40oce86W2)||React Case Study Festival|[\[youtube\]](https://www.youtube.com/playlist?list=PLnQIVBzL8WX4mocytpMsdKgsN_jh60qKN)|Transforming Software|[\[video\]](https://www.brighttalk.com/webcast/6505/491756?utm_campaign=communication_viewer_followup&utm_medium=email&utm_source=brighttalk-transact&utm_content=webcast)|
 
-
-### - ***Vue StoreFront***
-
-
-  - Summit 2021 &emsp;[\[youtube\]](https://www.youtube.com/playlist?list=PLIDwzUVxSXjOogIRgKI-RLXw40oce86W2) 
-
-### - ***Geekle***
-
-| Conference |   |   |
-|:----------:|:-:|:-:|
-|React Case Study Festival| - |[\[youtube\]](https://www.youtube.com/playlist?list=PLnQIVBzL8WX4mocytpMsdKgsN_jh60qKN)|
+</div>
 
 
-
-
-
-
-- ***Applitools***
-  - Transforming Software Development through a Modern Feedback Loop &emsp;[\[video\]](https://www.brighttalk.com/webcast/6505/491756?utm_campaign=communication_viewer_followup&utm_medium=email&utm_source=brighttalk-transact&utm_content=webcast)  
 
 - ***AWS Machine Learning - Udacity***
   - [Status](https://admissions.udacity.com/apply/aws-machine-learning-scholarship/submitted) 
