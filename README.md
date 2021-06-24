@@ -35,6 +35,33 @@
 
 # FullStack
 
+- ***JS Nation***
+  -   Full Stack Cloud Development with Next.js, AWS, and Tailwin &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-)&emsp;-&emsp;[\[repo\]](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)
+  -  Getting Comfortable with Angular and UI &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL) 
+  -  The Crash Course for Continuous Code Improvement &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)
+  -  Jamstack eCommerce 101 &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)
+  -  S Security Testing in GitHub Actions &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)
+  -  Build React-like apps for internal tooling 10x faster with Retool &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/Q-4CJ9aJs8X21E0S65crCGvZ48zly1aClgGAGdya9NV5rfDIyp1RlEuSON7e43as.27O_60ftPLAj_ExK)
+  -  Publishing, Automating and Monitoring your JS App on Azure &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/C9KrMQranjmwo6Pk7YVciqksGtjffNJG7tU87O4j7Gc5Nv8y8BH_5XJvb9H_UjcI.yvkAdB64QI0ccns8)
+
+
+| JavaScript Nation | - | Workshops |
+|:-----------------:|:-:|:---------:|
+|Publishing, Automating and Monitoring your JS App on Azure| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/pf-8wvlSS6-rE3RkVvJ1EtXQXHPFGaEltVtPaO1PO6Dd7sxiMmYL1TeWTlmNPa8l.FQtC94vQdIsW4aXY)|
+|Build React-like apps for internal tooling 10x faster with Retool | - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/JnwkRdCS8fvNklY4ogjB9v8sOF0egXUx96DNQjT4PaNE3a_77viK6Drn-yvr652u.DqiXpIFfLUeQxKMj)|
+|Build an IoT App With InfluxDB| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/J7K4BBudw2bl2ViQUAySVazxt1cNlKyA1y3cnqfkYlkvXosoStUZYEty4Ra1mSTF.25FFPGBxHJIF-foD)|
+|JS Security Testing in GitHub Actions| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)|
+|The Crash Course for Continuous Code Improvement | - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)|
+|Jamstack eCommerce 101| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)|
+|Build your own live streaming platform| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/iS2n66O_BaKl2d4WJYpxn_tcUlr7aOzUJKsOUpFw7S6UlvTW-wzgrTDdgC4bgk9e.Gh5yzp85yAP6zF-j)|
+|Full Stack Cloud Development with Next.js, AWS, and Tailwind| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/SM9XmLVJMXkEdBZpDvta9VLu8eCPqlBoIgJOSFcWQUeN-bx6drLb0dEHjhUQfA3D.bLGbqrh4KisSv_7X)|
+|Building a Hyper Fast Web Server with Deno | - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/8E9K4orTKNByCpk00xfV-jSCsWjQefvE2eV-maVq6nMecGmnv3rZR1ibdMwMKVyT.CJ19qlpATwb-PC-g)|
+|Shipping high performance Web Apps with Datadog and Real User Monitoring| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/e1qF682f9HlRqoJsNZ_lrCdeCfRx-ZJs3tx5Vkeik3wjgDl2jJ4VfDup5M2sLKZJ.7onpqAzAw0CYitZz)|
+
+
+
+
+
 - ***Docker Live***
   - On Demand &emsp;[\[video\]](https://email.docker.com/OTI5LUZKTC0xNzgAAAF9cPStRpKHp2gusiwlPFBazQYEWeDjm5ltptEvn30ews01qOqBkQd_-_K2s8Li_Qa9x_WP2g0=) 
 - ***Sysdig***
@@ -44,6 +71,7 @@
 - ***Contentful***
   - Resources &emsp;[\[video\]](https://www.contentful.com/resources/compose-and-launch/watch/?utm_medium=email&utm_source=newsletter&utm_campaign=may-2021-pre-customer-newsletter&utm_content=compose-and-launch&mkt_tok=NTk3LVBXUC0xNTYAAAF9KQ3DZVGIikp4lOMibeAFHQYvA1IxOhb7XdhXGK5UTOJD2IBzKHRIxol4RoD-f229Anj-8YScR7P4Qg6P-f0JhW8KW-HIUD0x1hfS5HM59Ob8) 
   - Agile personalization &emsp;[\[video\]](https://www.contentful.com/resources/agile-personalization-uniform-webinar/watch/)
+  - Global marketing and localization &emsp;[\[video\]](https://www.contentful.com/resources/product-demo-global-marketing-localization/?utm_medium=email&utm_source=newsletter&utm_campaign=june-2021-pre-customer-newsetter&utm_content=product-demo&mkt_tok=NTk3LVBXUC0xNTYAAAF9uUB_d-CDjEhcAKhKzAl-Z98M5lTQew7fUTwD4nxSgFl7us4C9NR-EUutsze-phBjs7uTH4aCQa5TNXWYwVKyyuRGLicFPC_ZBujmLcbMstvv)
 - ***Reign***
   - Sessions &emsp;[\[live\]](https://headless-week-latam.reign.cl/es/)
 - ***Rollbar***
@@ -63,14 +91,7 @@
   - 
 - ***Vue StoreFront***
   - Summit 2021 &emsp;[\[youtube\]](https://www.youtube.com/playlist?list=PLIDwzUVxSXjOogIRgKI-RLXw40oce86W2) 
-- ***JS Nation***
-  -   Full Stack Cloud Development with Next.js, AWS, and Tailwin &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-)&emsp;-&emsp;[\[repo\]](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)
-  -  Getting Comfortable with Angular and UI &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL) 
-  -  The Crash Course for Continuous Code Improvement &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)
-  -  Jamstack eCommerce 101 &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)
-  -  S Security Testing in GitHub Actions &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)
-  -  Build React-like apps for internal tooling 10x faster with Retool &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/Q-4CJ9aJs8X21E0S65crCGvZ48zly1aClgGAGdya9NV5rfDIyp1RlEuSON7e43as.27O_60ftPLAj_ExK)
-  -  Publishing, Automating and Monitoring your JS App on Azure &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/C9KrMQranjmwo6Pk7YVciqksGtjffNJG7tU87O4j7Gc5Nv8y8BH_5XJvb9H_UjcI.yvkAdB64QI0ccns8)
+
 - ***AWS***
   - How to use Infrastructure as Code to achieve DevOps at scale &emsp;[\[video\]](https://pages.awscloud.com/awsmp-h2-dev-infrastructure-as-code-for-devops-at-scale-ty.html)
   - CI/CD Pipelines Hands-on Labs &emsp;[\[video\]](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module2-cicd-pipelines-ty.html)     
