@@ -37,7 +37,7 @@
 
 ### - ***JS Nation***
 
-|Conference| - | - | - |
+|Conference| - | - |   |
 |:--------:|:-:|:-:|:-:|
 |Full Stack Cloud Development with Next.js, AWS, and Tailwin| - |[\[video\]](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-)|[\[repo\]](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)|
 |Getting Comfortable with Angular and UI| - |[\[video\]](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL)|[\[-\]]|
@@ -55,19 +55,32 @@
 |Build an IoT App With InfluxDB| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/J7K4BBudw2bl2ViQUAySVazxt1cNlKyA1y3cnqfkYlkvXosoStUZYEty4Ra1mSTF.25FFPGBxHJIF-foD)|
 |JS Security Testing in GitHub Actions| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)|
 |The Crash Course for Continuous Code Improvement | - |[\[zoom\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)|
-|Jamstack eCommerce 101| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)|
+|Jamstack eCommerce 101| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)|
 |Build your own live streaming platform| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/iS2n66O_BaKl2d4WJYpxn_tcUlr7aOzUJKsOUpFw7S6UlvTW-wzgrTDdgC4bgk9e.Gh5yzp85yAP6zF-j)|
 |Full Stack Cloud Development with Next.js, AWS, and Tailwind| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/SM9XmLVJMXkEdBZpDvta9VLu8eCPqlBoIgJOSFcWQUeN-bx6drLb0dEHjhUQfA3D.bLGbqrh4KisSv_7X)|
 |Building a Hyper Fast Web Server with Deno | - |[\[zoom\]](https://gitnation.zoom.us/rec/share/8E9K4orTKNByCpk00xfV-jSCsWjQefvE2eV-maVq6nMecGmnv3rZR1ibdMwMKVyT.CJ19qlpATwb-PC-g)|
 |Shipping high performance Web Apps with Datadog and Real User Monitoring| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/e1qF682f9HlRqoJsNZ_lrCdeCfRx-ZJs3tx5Vkeik3wjgDl2jJ4VfDup5M2sLKZJ.7onpqAzAw0CYitZz)|
 
 
+### - ***Docker Live***
+
+| Conference | - |   |
+|:----------:|:-:|:-:|
+|On Demand| - |[\[video\]](https://email.docker.com/OTI5LUZKTC0xNzgAAAF9cPStRpKHp2gusiwlPFBazQYEWeDjm5ltptEvn30ews01qOqBkQd_-_K2s8Li_Qa9x_WP2g0=)|
+
+
+### - ***Sysdig***
+
+| Conference | - |   |   |
+|:----------:|:-:|:-:|:-:|
+|Top Dockerfile Security Best Practices| - |[\[video\]](https://sysdig.com/resources/webinars/top-dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLblxYI8czYgsrduWZIlnUDuF5QH4QShZY2uhucuJwhXlera5-lHA-oZjNXIJ1lhhJd7SOgjLxVSLVWW7DU31odcAgvMm9lnpGUXS1IQg)|[\[Presentation\]](https://sysdig.com/blog/dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLbunZy8GyRtzyKb7TX37eiD3guHeHI8tQvDnRO1D2I0rxd63qKb4-i3uNdSOBqzIpJ8BJs1j9498qaod9KEDKruNpww9JI1TaZmY-6Sg)|
+|| - |[\[video\]]|
+|| - |[\[video\]]|
+|| - |[\[video\]]|
 
 
 
-- ***Docker Live***
-  - On Demand &emsp;[\[video\]](https://email.docker.com/OTI5LUZKTC0xNzgAAAF9cPStRpKHp2gusiwlPFBazQYEWeDjm5ltptEvn30ews01qOqBkQd_-_K2s8Li_Qa9x_WP2g0=) 
-- ***Sysdig***
+
   - Top Dockerfile Security Best Practices &emsp;[\[video\]](https://sysdig.com/resources/webinars/top-dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLblxYI8czYgsrduWZIlnUDuF5QH4QShZY2uhucuJwhXlera5-lHA-oZjNXIJ1lhhJd7SOgjLxVSLVWW7DU31odcAgvMm9lnpGUXS1IQg)&ensp;-&ensp;[\[Presentation\]](https://sysdig.com/blog/dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLbunZy8GyRtzyKb7TX37eiD3guHeHI8tQvDnRO1D2I0rxd63qKb4-i3uNdSOBqzIpJ8BJs1j9498qaod9KEDKruNpww9JI1TaZmY-6Sg) 
   - Dockerfile Best Practices &emsp;[\[Doc - 1\]](https://dig.sysdig.com/c/pf-2020-container-security-snapshot?x=u_WFRi&topic=Kubernetes)&ensp;-&ensp;[\[Doc - 2\]](https://dig.sysdig.com/c/pf-ebook-monitoring-docker-containers?x=u_WFRi&utm_source=gated-organic&utm_medium=website)&ensp;-&ensp;[\[Falco Security Rules\]](https://sysdig.com/blog/docker-falco-security/)
   - Embedding security throughout your DevOps workflows &emsp;[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9vxHAjSyMsLkwpHpwmx0SZ4hTfAiQ9HnDMfWhRwJUbyALePfOsZztMrbM6-H2g4PNMf2FBhE=)
