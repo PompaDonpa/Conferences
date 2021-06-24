@@ -35,7 +35,7 @@
 
 # FullStack
 
-### - ***JS Nation***
+<h3><b>JS Nation</b></h3>
 
 <div align="center">
 
@@ -52,7 +52,8 @@
 
 </div>
 
-
+<div align="center">
+  
 | Workshop |   |   |
 |:-----------------:|:-:|:---------:|
 |Publishing, Automating and Monitoring your JS App on Azure| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/pf-8wvlSS6-rE3RkVvJ1EtXQXHPFGaEltVtPaO1PO6Dd7sxiMmYL1TeWTlmNPa8l.FQtC94vQdIsW4aXY)|
@@ -65,6 +66,8 @@
 |Full Stack Cloud Development with Next.js, AWS, and Tailwind| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/SM9XmLVJMXkEdBZpDvta9VLu8eCPqlBoIgJOSFcWQUeN-bx6drLb0dEHjhUQfA3D.bLGbqrh4KisSv_7X)|
 |Building a Hyper Fast Web Server with Deno | - |[\[zoom\]](https://gitnation.zoom.us/rec/share/8E9K4orTKNByCpk00xfV-jSCsWjQefvE2eV-maVq6nMecGmnv3rZR1ibdMwMKVyT.CJ19qlpATwb-PC-g)|
 |Shipping high performance Web Apps with Datadog and Real User Monitoring| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/e1qF682f9HlRqoJsNZ_lrCdeCfRx-ZJs3tx5Vkeik3wjgDl2jJ4VfDup5M2sLKZJ.7onpqAzAw0CYitZz)|
+
+</div>
 
 
 ### - ***Docker Live***
