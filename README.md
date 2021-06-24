@@ -44,7 +44,7 @@
 |Build React-like apps for internal tooling 10x faster with Retool |[\[zoom\]](https://gitnation.zoom.us/rec/share/JnwkRdCS8fvNklY4ogjB9v8sOF0egXUx96DNQjT4PaNE3a_77viK6Drn-yvr652u.DqiXpIFfLUeQxKMj)|
 |Build an IoT App With InfluxDB|[\[zoom\]](https://gitnation.zoom.us/rec/share/J7K4BBudw2bl2ViQUAySVazxt1cNlKyA1y3cnqfkYlkvXosoStUZYEty4Ra1mSTF.25FFPGBxHJIF-foD)|
 |JS Security Testing in GitHub Actions|[\[zoom\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)|
-|The Crash Course for Continuous Code Improvement | - |[\[zoom\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)|
+|The Crash Course for Continuous Code Improvement |[\[zoom\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)|
 |Jamstack eCommerce 101|[\[zoom\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)|
 |Build your own live streaming platform|[\[zoom\]](https://gitnation.zoom.us/rec/share/iS2n66O_BaKl2d4WJYpxn_tcUlr7aOzUJKsOUpFw7S6UlvTW-wzgrTDdgC4bgk9e.Gh5yzp85yAP6zF-j)|
 |Full Stack Cloud Development with Next.js, AWS, and Tailwind|[\[zoom\]](https://gitnation.zoom.us/rec/share/SM9XmLVJMXkEdBZpDvta9VLu8eCPqlBoIgJOSFcWQUeN-bx6drLb0dEHjhUQfA3D.bLGbqrh4KisSv_7X)|
@@ -59,7 +59,7 @@
 |:--------:|:-:|:-:|
 |Full Stack Cloud Development with Next.js, AWS, and Tailwin&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-)|&emsp;[\[repo\]](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)&emsp;|
 |Getting Comfortable with Angular and UI&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL)| |
-|The Crash Course for Continuous Code Improvement&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)| |
+|The Crash Course for Continuous Code Improvement&ensp;|[video](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)| |
 |Jamstack eCommerce 101&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)| |
 |S Security Testing in GitHub Actions&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)| |
 |Build React-like apps for internal tooling 10x faster with Retool&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/Q-4CJ9aJs8X21E0S65crCGvZ48zly1aClgGAGdya9NV5rfDIyp1RlEuSON7e43as.27O_60ftPLAj_ExK)| |
@@ -159,7 +159,7 @@
 
 | <h4><b>Docker Live</b></h4> |  | <h4><b>Vue StoreFront</b></h4> |   | <h4><b>Geekle</b></h4> |  | <h4><b>Applitools</b></h4> |   |
 |:----------:|:-:|:----------:|:-:|:----------:|:-:|:----------:|:-:|
-|On Demand|[\[video\]](https://email.docker.com/OTI5LUZKTC0xNzgAAAF9cPStRpKHp2gusiwlPFBazQYEWeDjm5ltptEvn30ews01qOqBkQd_-_K2s8Li_Qa9x_WP2g0=)|Summit 2021|[\[youtube\]](https://www.youtube.com/playlist?list=PLIDwzUVxSXjOogIRgKI-RLXw40oce86W2)||React Case Study Festival|[\[youtube\]](https://www.youtube.com/playlist?list=PLnQIVBzL8WX4mocytpMsdKgsN_jh60qKN)|Transforming Software|[\[video\]](https://www.brighttalk.com/webcast/6505/491756?utm_campaign=communication_viewer_followup&utm_medium=email&utm_source=brighttalk-transact&utm_content=webcast)|
+|On Demand|[\[video\]](https://email.docker.com/OTI5LUZKTC0xNzgAAAF9cPStRpKHp2gusiwlPFBazQYEWeDjm5ltptEvn30ews01qOqBkQd_-_K2s8Li_Qa9x_WP2g0=)|Summit 2021|[\[youtube\]](https://www.youtube.com/playlist?list=PLIDwzUVxSXjOogIRgKI-RLXw40oce86W2)|React Case Study Festival|[\[youtube\]](https://www.youtube.com/playlist?list=PLnQIVBzL8WX4mocytpMsdKgsN_jh60qKN)|Transforming Software|[\[video\]](https://www.brighttalk.com/webcast/6505/491756?utm_campaign=communication_viewer_followup&utm_medium=email&utm_source=brighttalk-transact&utm_content=webcast)|
 
 </div>
 
