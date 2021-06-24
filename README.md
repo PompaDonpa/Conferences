@@ -37,20 +37,6 @@
 
 <h3><b>JS Nation</b></h3>
 
-<div align="center">
-
-
-|Conference|   |   |   |
-|:--------:|:-:|:-:|:-:|
-|Full Stack Cloud Development with Next.js, AWS, and Tailwin| - |[\[video\]](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-)|[\[repo\]](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)|
-|Getting Comfortable with Angular and UI| - |[\[video\]](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL)| |
-|The Crash Course for Continuous Code Improvement| - |[\[video\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)| |
-|Jamstack eCommerce 101| - |[\[video\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)| |
-|S Security Testing in GitHub Actions| - |[\[video\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)| |
-|Build React-like apps for internal tooling 10x faster with Retool| - |[\[video\]](https://gitnation.zoom.us/rec/share/Q-4CJ9aJs8X21E0S65crCGvZ48zly1aClgGAGdya9NV5rfDIyp1RlEuSON7e43as.27O_60ftPLAj_ExK)| |
-|Publishing, Automating and Monitoring your JS App on Azure| - |[\[video\]](https://gitnation.zoom.us/rec/share/C9KrMQranjmwo6Pk7YVciqksGtjffNJG7tU87O4j7Gc5Nv8y8BH_5XJvb9H_UjcI.yvkAdB64QI0ccns8)| |
-
-</div>
 
 <div align="center">
   
@@ -69,15 +55,26 @@
 
 </div>
 
-
-### - ***Docker Live***
-
-| Conference |   |   |
-|:----------:|:-:|:-:|
-|On Demand| - |[\[video\]](https://email.docker.com/OTI5LUZKTC0xNzgAAAF9cPStRpKHp2gusiwlPFBazQYEWeDjm5ltptEvn30ews01qOqBkQd_-_K2s8Li_Qa9x_WP2g0=)|
+<div align="center">
 
 
-### - ***Sysdig***
+|Conference|   |   |   |
+|:--------:|:-:|:-:|:-:|
+|Full Stack Cloud Development with Next.js, AWS, and Tailwin&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-)|&emsp;[\[repo\]](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)&emsp;|
+|Getting Comfortable with Angular and UI&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL)| |
+|The Crash Course for Continuous Code Improvement&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)| |
+|Jamstack eCommerce 101&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)| |
+|S Security Testing in GitHub Actions&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)| |
+|Build React-like apps for internal tooling 10x faster with Retool&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/Q-4CJ9aJs8X21E0S65crCGvZ48zly1aClgGAGdya9NV5rfDIyp1RlEuSON7e43as.27O_60ftPLAj_ExK)| |
+|Publishing, Automating and Monitoring your JS App on Azure&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/C9KrMQranjmwo6Pk7YVciqksGtjffNJG7tU87O4j7Gc5Nv8y8BH_5XJvb9H_UjcI.yvkAdB64QI0ccns8)| |
+
+</div>
+
+
+
+<h3><b>Sysdig</b></h3>
+
+<div align="center">
 
 | Conference |   |   |   |   |   
 |:----------:|:-:|:-:|:-:|:-:|
@@ -85,10 +82,14 @@
 |Dockerfile Best Practices| - |[\[Doc\]](https://dig.sysdig.com/c/pf-2020-container-security-snapshot?x=u_WFRi&topic=Kubernetes)|[\[Doc\]](https://dig.sysdig.com/c/pf-ebook-monitoring-docker-containers?x=u_WFRi&utm_source=gated-organic&utm_medium=website)|[\[Falco Security Rules\]](https://sysdig.com/blog/docker-falco-security/)|
 |Embedding security throughout your DevOps workflows| - |[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9vxHAjSyMsLkwpHpwmx0SZ4hTfAiQ9HnDMfWhRwJUbyALePfOsZztMrbM6-H2g4PNMf2FBhE=)| | |
 
+</div>
 
 
-### - ***Contentful***
+<h3><b>Contentful</b></h3>
 
+
+<div align="center">
+  
 | Conference |   |   |
 |:----------:|:-:|:-:|
 |Resources| - |[\[video\]](https://www.contentful.com/resources/compose-and-launch/watch/?utm_medium=email&utm_source=newsletter&utm_campaign=may-2021-pre-customer-newsletter&utm_content=compose-and-launch&mkt_tok=NTk3LVBXUC0xNTYAAAF9KQ3DZVGIikp4lOMibeAFHQYvA1IxOhb7XdhXGK5UTOJD2IBzKHRIxol4RoD-f229Anj-8YScR7P4Qg6P-f0JhW8KW-HIUD0x1hfS5HM59Ob8) |
@@ -96,47 +97,36 @@
 |Global marketing and localization| - |[\[video\]](https://www.contentful.com/resources/product-demo-global-marketing-localization/?utm_medium=email&utm_source=newsletter&utm_campaign=june-2021-pre-customer-newsetter&utm_content=product-demo&mkt_tok=NTk3LVBXUC0xNTYAAAF9uUB_d-CDjEhcAKhKzAl-Z98M5lTQew7fUTwD4nxSgFl7us4C9NR-EUutsze-phBjs7uTH4aCQa5TNXWYwVKyyuRGLicFPC_ZBujmLcbMstvv)|
 || - ||
 
-
-### - ***Reign***
-
-| Conference |   |   |
-|:----------:|:-:|:-:|
-|Sessions| - |[\[live\]](https://headless-week-latam.reign.cl/es/)|
+</div>
 
 
-### - ***Rollbar***
+<h3><b>Rollbar</b></h3>
+
+<div align="center">
 
 | Conference |   |   |
 |:----------:|:-:|:-:|
 |Accelerating Code Quality with the DORA Metrics| - |[\[video\]](https://www.youtube.com/watch?v=J9FbG-BNdAM)|
 |JavaScript Guides| - |[\[Doc\]](https://rollbar.com/guides/javascript/?utm_campaign=growth-gitnation-the-welcome-email&utm_medium=email&_hsmi=134586061&_hsenc=p2ANqtz-_GhoS4JdtGJCG_MaUKTM222QgiSClBPPhGaSkPaEbELqRXfKcf0JFp6nsyJG2lt0ZjBMmdH7QSTl38kR9qzaebredEVxuT-SIKdSoyCU2w9DaxbwY&utm_source=hubspot)  |
 
+</div>
 
 
-### - ***Retool***
+<h3><b>Retool</b></h3>
 
+
+<div align="center">
+  
 | Conference |   |   |
 |:----------:|:-:|:-:|
 |Getting Started| - |[\[site\]](https://docs.retool.com/docs/quickstart)|
 |Template Library| - |[\[site\]](https://retool.com/templates/?utm_medium=email&_hsmi=126376023&_hsenc=p2ANqtz-89uHxvVgP_TJFvAbCj6rwPSQg5tW4t59GaEv6xtEp4cRByxbieWteBU0kwCs57XdBVbGuIc-3sDJcFRlOBwL7LMWoIGxkQtJbCMo6GPm2bceBN3z8&utm_content=126376023&utm_source=hs_automation)|
 
-
-### - ***HashiCorp Summit***
-
-| Conference |   |   |
-|:----------:|:-:|:-:|
-|June Conference| - |[\[room\]](https://live.hashiconf.com/schedule) |
+</div>
 
 
+<h3><b>Mongo DB</b></h3>
 
-### - ***Geekle***
-
-| Conference |   |   |
-|:----------:|:-:|:-:|
-|React Case Study Festival| - |[\[youtube\]](https://www.youtube.com/playlist?list=PLnQIVBzL8WX4mocytpMsdKgsN_jh60qKN)|
-
-
-### - ***MongoDB***
 
 
 | Conference |   |   |   |
@@ -148,18 +138,58 @@
 
 
 
+
+
+
+<h3><b>AWS</b></h3>
+
+<div align="center">
+  
+
+| Conference |   |   |   |
+|:----------:|:-:|:-:|:-:|
+|How to use Infrastructure as Code to achieve DevOps at scale| - |[\[video\]](https://pages.awscloud.com/awsmp-h2-dev-infrastructure-as-code-for-devops-at-scale-ty.html)|
+|CI/CD Pipelines Hands-on Labs| - |[\[video\]](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module2-cicd-pipelines-ty.html)|
+|Modernize your cloud-native security strategy| - |[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9dvjYMIiunspCrLZ45JCgrecBHMRyFSB-MPalvvIo-2PwzJf-4B4rVI_8R83smr5vg7zTlxU=)|
+|How InfluxDB Enables NodeSource to Run Extreme Levels of Node.js Processes| - |[\[video\]](https://www.influxdata.com/resources/how-influxdb-enables-nodesource-to-run-extreme-levels-of-node-js-processes/?utm_source=nurture&utm_medium=email&utm_campaign=2021-06-09_spnsr-webinar_jsnation_gitnation&utm_content=sequence)|  
+
+</div>
+
+
+
+### - ***HashiCorp Summit***
+
+| Conference |   |   |
+|:----------:|:-:|:-:|
+|June Conference| - |[\[room\]](https://live.hashiconf.com/schedule) |
+
+### - ***Reign***
+
+| Conference |   |   |
+|:----------:|:-:|:-:|
+|Sessions| - |[\[live\]](https://headless-week-latam.reign.cl/es/)|
+
+
+### - ***Docker Live***
+
+| Conference |   |   |
+|:----------:|:-:|:-:|
+|On Demand| - |[\[video\]](https://email.docker.com/OTI5LUZKTC0xNzgAAAF9cPStRpKHp2gusiwlPFBazQYEWeDjm5ltptEvn30ews01qOqBkQd_-_K2s8Li_Qa9x_WP2g0=)|
+
+
+
 ### - ***Vue StoreFront***
 
 
   - Summit 2021 &emsp;[\[youtube\]](https://www.youtube.com/playlist?list=PLIDwzUVxSXjOogIRgKI-RLXw40oce86W2) 
 
+### - ***Geekle***
+
+| Conference |   |   |
+|:----------:|:-:|:-:|
+|React Case Study Festival| - |[\[youtube\]](https://www.youtube.com/playlist?list=PLnQIVBzL8WX4mocytpMsdKgsN_jh60qKN)|
 
 
-- ***AWS***
-  - How to use Infrastructure as Code to achieve DevOps at scale &emsp;[\[video\]](https://pages.awscloud.com/awsmp-h2-dev-infrastructure-as-code-for-devops-at-scale-ty.html)
-  - CI/CD Pipelines Hands-on Labs &emsp;[\[video\]](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module2-cicd-pipelines-ty.html)     
-  - Modernize your cloud-native security strategy &emsp;[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9dvjYMIiunspCrLZ45JCgrecBHMRyFSB-MPalvvIo-2PwzJf-4B4rVI_8R83smr5vg7zTlxU=)
-  - How InfluxDB Enables NodeSource to Run Extreme Levels of Node.js Processes &emsp;[\[video\]](https://www.influxdata.com/resources/how-influxdb-enables-nodesource-to-run-extreme-levels-of-node-js-processes/?utm_source=nurture&utm_medium=email&utm_campaign=2021-06-09_spnsr-webinar_jsnation_gitnation&utm_content=sequence)
 - ***Front End Test Fest***
   - [Applitools](https://www.youtube.com/playlist?list=PLkqF-NUszJY5NJJwIfFezmKLG8j6AEpKD)
   - [Cypress](https://www.youtube.com/playlist?list=PL8GlT7H3xOcIXrl0nXmyDBYztCKcVqQQg)
