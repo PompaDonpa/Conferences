@@ -37,7 +37,7 @@
 
 ### - ***JS Nation***
 
-|Conference| - | - |   |
+|Conference|   |   |   |
 |:--------:|:-:|:-:|:-:|
 |Full Stack Cloud Development with Next.js, AWS, and Tailwin| - |[\[video\]](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-)|[\[repo\]](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)|
 |Getting Comfortable with Angular and UI| - |[\[video\]](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL)| |
@@ -48,7 +48,7 @@
 |Publishing, Automating and Monitoring your JS App on Azure| - |[\[video\]](https://gitnation.zoom.us/rec/share/C9KrMQranjmwo6Pk7YVciqksGtjffNJG7tU87O4j7Gc5Nv8y8BH_5XJvb9H_UjcI.yvkAdB64QI0ccns8)| |
 
 
-| Workshop | - |  |
+| Workshop |   |   |
 |:-----------------:|:-:|:---------:|
 |Publishing, Automating and Monitoring your JS App on Azure| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/pf-8wvlSS6-rE3RkVvJ1EtXQXHPFGaEltVtPaO1PO6Dd7sxiMmYL1TeWTlmNPa8l.FQtC94vQdIsW4aXY)|
 |Build React-like apps for internal tooling 10x faster with Retool | - |[\[zoom\]](https://gitnation.zoom.us/rec/share/JnwkRdCS8fvNklY4ogjB9v8sOF0egXUx96DNQjT4PaNE3a_77viK6Drn-yvr652u.DqiXpIFfLUeQxKMj)|
@@ -64,25 +64,27 @@
 
 ### - ***Docker Live***
 
-| Conference | - |   |
+| Conference |   |   |
 |:----------:|:-:|:-:|
 |On Demand| - |[\[video\]](https://email.docker.com/OTI5LUZKTC0xNzgAAAF9cPStRpKHp2gusiwlPFBazQYEWeDjm5ltptEvn30ews01qOqBkQd_-_K2s8Li_Qa9x_WP2g0=)|
 
 
 ### - ***Sysdig***
 
-| Conference | - |   |   |
-|:----------:|:-:|:-:|:-:|
+| Conference |   |   |   |   |   |    
+|:----------:|:-:|:-:|:-:|:-:|:-:|
 |Top Dockerfile Security Best Practices| - |[\[video\]](https://sysdig.com/resources/webinars/top-dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLblxYI8czYgsrduWZIlnUDuF5QH4QShZY2uhucuJwhXlera5-lHA-oZjNXIJ1lhhJd7SOgjLxVSLVWW7DU31odcAgvMm9lnpGUXS1IQg)|[\[Presentation\]](https://sysdig.com/blog/dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLbunZy8GyRtzyKb7TX37eiD3guHeHI8tQvDnRO1D2I0rxd63qKb4-i3uNdSOBqzIpJ8BJs1j9498qaod9KEDKruNpww9JI1TaZmY-6Sg)|
+|Dockerfile Best Practices| - |[\[Doc\]](https://dig.sysdig.com/c/pf-2020-container-security-snapshot?x=u_WFRi&topic=Kubernetes)|[\[Doc\]](https://dig.sysdig.com/c/pf-ebook-monitoring-docker-containers?x=u_WFRi&utm_source=gated-organic&utm_medium=website)|[\[Falco Security Rules\]](https://sysdig.com/blog/docker-falco-security/)|
 || - |[\[video\]]|
 || - |[\[video\]]|
-|| - |[\[video\]]|
 
 
 
 
-  - Top Dockerfile Security Best Practices &emsp;[\[video\]](https://sysdig.com/resources/webinars/top-dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLblxYI8czYgsrduWZIlnUDuF5QH4QShZY2uhucuJwhXlera5-lHA-oZjNXIJ1lhhJd7SOgjLxVSLVWW7DU31odcAgvMm9lnpGUXS1IQg)&ensp;-&ensp;[\[Presentation\]](https://sysdig.com/blog/dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLbunZy8GyRtzyKb7TX37eiD3guHeHI8tQvDnRO1D2I0rxd63qKb4-i3uNdSOBqzIpJ8BJs1j9498qaod9KEDKruNpww9JI1TaZmY-6Sg) 
+
   - Dockerfile Best Practices &emsp;[\[Doc - 1\]](https://dig.sysdig.com/c/pf-2020-container-security-snapshot?x=u_WFRi&topic=Kubernetes)&ensp;-&ensp;[\[Doc - 2\]](https://dig.sysdig.com/c/pf-ebook-monitoring-docker-containers?x=u_WFRi&utm_source=gated-organic&utm_medium=website)&ensp;-&ensp;[\[Falco Security Rules\]](https://sysdig.com/blog/docker-falco-security/)
+
+
   - Embedding security throughout your DevOps workflows &emsp;[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9vxHAjSyMsLkwpHpwmx0SZ4hTfAiQ9HnDMfWhRwJUbyALePfOsZztMrbM6-H2g4PNMf2FBhE=)
 - ***Contentful***
   - Resources &emsp;[\[video\]](https://www.contentful.com/resources/compose-and-launch/watch/?utm_medium=email&utm_source=newsletter&utm_campaign=may-2021-pre-customer-newsletter&utm_content=compose-and-launch&mkt_tok=NTk3LVBXUC0xNTYAAAF9KQ3DZVGIikp4lOMibeAFHQYvA1IxOhb7XdhXGK5UTOJD2IBzKHRIxol4RoD-f229Anj-8YScR7P4Qg6P-f0JhW8KW-HIUD0x1hfS5HM59Ob8) 
