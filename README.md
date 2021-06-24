@@ -85,6 +85,36 @@
 </div>
 
 
+<h3><b>Mongo DB</b></h3>
+
+<div align="center">
+
+| Conference |   |   |   |
+|:----------:|:-:|:-:|:-:|
+|An Introduction to MongoDB Query API| - |[\[video\]](https://www.mongodb.com/presentations/an-introduction-to-mongodb-query-api-webinar-recording-na?p=607f1965b1a6404e1b57972b&utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)|[\[ documentation \]](https://docs.mongodb.com/manual/crud/?utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)
+|MongoDB.live 202| - |[\[site\]](https://www.mongodb.com/live/agenda?utm_campaign=Int_MW_MongoDB.live_07_21_WW_Agenda%20Announced%20REGISTRANTS&utm_medium=email&utm_source=eloqua&utm_term=%C3%B0%C2%9F%C2%93%C2%A3%20It%27s%20here%21%20See%20the%20full%20session%20agenda%20for%20MongoDB.live)| |
+|A Complete Methodology of Data Modeling for MongoDB| - |[\[video\]](https://www.mongodb.com/presentations/a-complete-methodology-of-data-modeling-for-mongodb?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)| |
+|Data Modeling University Course| - |[\[page\]](https://university.mongodb.com/courses/M320/about?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)| |
+
+</div>
+
+
+
+<h3><b>AWS</b></h3>
+
+<div align="center">
+
+| Conference |   |   |   |
+|:----------:|:-:|:-:|:-:|
+|How to use Infrastructure as Code to achieve DevOps at scale| - |[\[video\]](https://pages.awscloud.com/awsmp-h2-dev-infrastructure-as-code-for-devops-at-scale-ty.html)|
+|CI/CD Pipelines Hands-on Labs| - |[\[video\]](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module2-cicd-pipelines-ty.html)|
+|Modernize your cloud-native security strategy| - |[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9dvjYMIiunspCrLZ45JCgrecBHMRyFSB-MPalvvIo-2PwzJf-4B4rVI_8R83smr5vg7zTlxU=)|
+|How InfluxDB Enables NodeSource to Run Extreme Levels of Node.js Processes| - |[\[video\]](https://www.influxdata.com/resources/how-influxdb-enables-nodesource-to-run-extreme-levels-of-node-js-processes/?utm_source=nurture&utm_medium=email&utm_campaign=2021-06-09_spnsr-webinar_jsnation_gitnation&utm_content=sequence)|  
+
+</div>
+
+
+
 <h3><b>Contentful</b></h3>
 
 
@@ -125,35 +155,6 @@
 </div>
 
 
-<h3><b>Mongo DB</b></h3>
-
-
-
-| Conference |   |   |   |
-|:----------:|:-:|:-:|:-:|
-|MongoDB.live 202| - |[\[site\]](https://www.mongodb.com/live/agenda?utm_campaign=Int_MW_MongoDB.live_07_21_WW_Agenda%20Announced%20REGISTRANTS&utm_medium=email&utm_source=eloqua&utm_term=%C3%B0%C2%9F%C2%93%C2%A3%20It%27s%20here%21%20See%20the%20full%20session%20agenda%20for%20MongoDB.live)| |
-|A Complete Methodology of Data Modeling for MongoDB| - |[\[video\]](https://www.mongodb.com/presentations/a-complete-methodology-of-data-modeling-for-mongodb?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)| |
-|Data Modeling University Course| - |[\[page\]](https://university.mongodb.com/courses/M320/about?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)| |
-|An Introduction to MongoDB Query API| - |[\[video\]](https://www.mongodb.com/presentations/an-introduction-to-mongodb-query-api-webinar-recording-na?p=607f1965b1a6404e1b57972b&utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)|[\[ documentation \]](https://docs.mongodb.com/manual/crud/?utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)
-
-
-
-
-
-
-<h3><b>AWS</b></h3>
-
-<div align="center">
-  
-
-| Conference |   |   |   |
-|:----------:|:-:|:-:|:-:|
-|How to use Infrastructure as Code to achieve DevOps at scale| - |[\[video\]](https://pages.awscloud.com/awsmp-h2-dev-infrastructure-as-code-for-devops-at-scale-ty.html)|
-|CI/CD Pipelines Hands-on Labs| - |[\[video\]](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module2-cicd-pipelines-ty.html)|
-|Modernize your cloud-native security strategy| - |[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9dvjYMIiunspCrLZ45JCgrecBHMRyFSB-MPalvvIo-2PwzJf-4B4rVI_8R83smr5vg7zTlxU=)|
-|How InfluxDB Enables NodeSource to Run Extreme Levels of Node.js Processes| - |[\[video\]](https://www.influxdata.com/resources/how-influxdb-enables-nodesource-to-run-extreme-levels-of-node-js-processes/?utm_source=nurture&utm_medium=email&utm_campaign=2021-06-09_spnsr-webinar_jsnation_gitnation&utm_content=sequence)|  
-
-</div>
 
 
 
