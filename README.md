@@ -137,18 +137,15 @@
 </div>
 
 
+<hr />
 
 
 <div align="center">
-  <div align="center" display="block"><h3><b>Front End Test Fest&emsp;&emsp;-&emsp;&emsp;Retool</b></h3></div>
-</div>
 
-<div align="center">
-
-| <sub>Front End Test Fest</sub> |   |   | <sub>Retool</sub> |   |   |
-|:----------:|:-:|:-:|:----------:|:-:|:-:|
-|Applitools| - |[\[site\]](https://www.youtube.com/playlist?list=PLkqF-NUszJY5NJJwIfFezmKLG8j6AEpKD)|Getting Started| - |[\[site\]](https://docs.retool.com/docs/quickstart)|
-|Cypress| - |[\[site\]](https://www.youtube.com/playlist?list=PL8GlT7H3xOcIXrl0nXmyDBYztCKcVqQQg)|Template Library| - |[\[site\]](https://retool.com/templates/?utm_medium=email&_hsmi=126376023&_hsenc=p2ANqtz-89uHxvVgP_TJFvAbCj6rwPSQg5tW4t59GaEv6xtEp4cRByxbieWteBU0kwCs57XdBVbGuIc-3sDJcFRlOBwL7LMWoIGxkQtJbCMo6GPm2bceBN3z8&utm_content=126376023&utm_source=hs_automation)|
+| <h4><b>Front end fest</b></h4> |  | <h4><b>Retool</b></h4> |   |
+|:----------:|:-:|:----------:|:-:|
+|Applitools|[\[site\]](https://www.youtube.com/playlist?list=PLkqF-NUszJY5NJJwIfFezmKLG8j6AEpKD)|Getting Started|[\[site\]](https://docs.retool.com/docs/quickstart)|
+|Cypress|[\[site\]](https://www.youtube.com/playlist?list=PL8GlT7H3xOcIXrl0nXmyDBYztCKcVqQQg)|Template Library|[\[site\]](https://retool.com/templates/?utm_medium=email&_hsmi=126376023&_hsenc=p2ANqtz-89uHxvVgP_TJFvAbCj6rwPSQg5tW4t59GaEv6xtEp4cRByxbieWteBU0kwCs57XdBVbGuIc-3sDJcFRlOBwL7LMWoIGxkQtJbCMo6GPm2bceBN3z8&utm_content=126376023&utm_source=hs_automation)|
   
 </div>
 
