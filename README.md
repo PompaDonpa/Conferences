@@ -35,28 +35,31 @@
 
 # FullStack
 
-- ***JS Nation***
-  -   Full Stack Cloud Development with Next.js, AWS, and Tailwin &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-)&emsp;-&emsp;[\[repo\]](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)
-  -  Getting Comfortable with Angular and UI &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL) 
-  -  The Crash Course for Continuous Code Improvement &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)
-  -  Jamstack eCommerce 101 &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)
-  -  S Security Testing in GitHub Actions &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)
-  -  Build React-like apps for internal tooling 10x faster with Retool &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/Q-4CJ9aJs8X21E0S65crCGvZ48zly1aClgGAGdya9NV5rfDIyp1RlEuSON7e43as.27O_60ftPLAj_ExK)
-  -  Publishing, Automating and Monitoring your JS App on Azure &emsp;[\[video\]](https://gitnation.zoom.us/rec/share/C9KrMQranjmwo6Pk7YVciqksGtjffNJG7tU87O4j7Gc5Nv8y8BH_5XJvb9H_UjcI.yvkAdB64QI0ccns8)
+### - ***JS Nation***
+
+|Conference| - | - | - |
+|:--------:|:-:|:-:|:-:|
+|Full Stack Cloud Development with Next.js, AWS, and Tailwin| - |[\[video\]](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-)|[\[repo\]](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)|
+|Getting Comfortable with Angular and UI| - |[\[video\]](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL)|[\[-\]]|
+|The Crash Course for Continuous Code Improvement| - |[\[video\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)|[\[-\]]|
+|Jamstack eCommerce 101| - |[\[video\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)|[\[-\]]|
+|S Security Testing in GitHub Actions| - |[\[video\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)|[\[-\]]|
+|Build React-like apps for internal tooling 10x faster with Retool| - |[\[video\]](https://gitnation.zoom.us/rec/share/Q-4CJ9aJs8X21E0S65crCGvZ48zly1aClgGAGdya9NV5rfDIyp1RlEuSON7e43as.27O_60ftPLAj_ExK)|[\[-\]]|
+|Publishing, Automating and Monitoring your JS App on Azure| - |[\[video\]](https://gitnation.zoom.us/rec/share/C9KrMQranjmwo6Pk7YVciqksGtjffNJG7tU87O4j7Gc5Nv8y8BH_5XJvb9H_UjcI.yvkAdB64QI0ccns8)|[\[-\]]|
 
 
-| JavaScript Nation | - | Workshops |
+| Workshop | - |  |
 |:-----------------:|:-:|:---------:|
-|Publishing, Automating and Monitoring your JS App on Azure| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/pf-8wvlSS6-rE3RkVvJ1EtXQXHPFGaEltVtPaO1PO6Dd7sxiMmYL1TeWTlmNPa8l.FQtC94vQdIsW4aXY)|
-|Build React-like apps for internal tooling 10x faster with Retool | - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/JnwkRdCS8fvNklY4ogjB9v8sOF0egXUx96DNQjT4PaNE3a_77viK6Drn-yvr652u.DqiXpIFfLUeQxKMj)|
-|Build an IoT App With InfluxDB| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/J7K4BBudw2bl2ViQUAySVazxt1cNlKyA1y3cnqfkYlkvXosoStUZYEty4Ra1mSTF.25FFPGBxHJIF-foD)|
-|JS Security Testing in GitHub Actions| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)|
-|The Crash Course for Continuous Code Improvement | - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)|
+|Publishing, Automating and Monitoring your JS App on Azure| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/pf-8wvlSS6-rE3RkVvJ1EtXQXHPFGaEltVtPaO1PO6Dd7sxiMmYL1TeWTlmNPa8l.FQtC94vQdIsW4aXY)|
+|Build React-like apps for internal tooling 10x faster with Retool | - |[\[zoom\]](https://gitnation.zoom.us/rec/share/JnwkRdCS8fvNklY4ogjB9v8sOF0egXUx96DNQjT4PaNE3a_77viK6Drn-yvr652u.DqiXpIFfLUeQxKMj)|
+|Build an IoT App With InfluxDB| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/J7K4BBudw2bl2ViQUAySVazxt1cNlKyA1y3cnqfkYlkvXosoStUZYEty4Ra1mSTF.25FFPGBxHJIF-foD)|
+|JS Security Testing in GitHub Actions| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)|
+|The Crash Course for Continuous Code Improvement | - |[\[zoom\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)|
 |Jamstack eCommerce 101| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)|
-|Build your own live streaming platform| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/iS2n66O_BaKl2d4WJYpxn_tcUlr7aOzUJKsOUpFw7S6UlvTW-wzgrTDdgC4bgk9e.Gh5yzp85yAP6zF-j)|
-|Full Stack Cloud Development with Next.js, AWS, and Tailwind| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/SM9XmLVJMXkEdBZpDvta9VLu8eCPqlBoIgJOSFcWQUeN-bx6drLb0dEHjhUQfA3D.bLGbqrh4KisSv_7X)|
-|Building a Hyper Fast Web Server with Deno | - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/8E9K4orTKNByCpk00xfV-jSCsWjQefvE2eV-maVq6nMecGmnv3rZR1ibdMwMKVyT.CJ19qlpATwb-PC-g)|
-|Shipping high performance Web Apps with Datadog and Real User Monitoring| - |[\[ zoom \]](https://gitnation.zoom.us/rec/share/e1qF682f9HlRqoJsNZ_lrCdeCfRx-ZJs3tx5Vkeik3wjgDl2jJ4VfDup5M2sLKZJ.7onpqAzAw0CYitZz)|
+|Build your own live streaming platform| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/iS2n66O_BaKl2d4WJYpxn_tcUlr7aOzUJKsOUpFw7S6UlvTW-wzgrTDdgC4bgk9e.Gh5yzp85yAP6zF-j)|
+|Full Stack Cloud Development with Next.js, AWS, and Tailwind| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/SM9XmLVJMXkEdBZpDvta9VLu8eCPqlBoIgJOSFcWQUeN-bx6drLb0dEHjhUQfA3D.bLGbqrh4KisSv_7X)|
+|Building a Hyper Fast Web Server with Deno | - |[\[zoom\]](https://gitnation.zoom.us/rec/share/8E9K4orTKNByCpk00xfV-jSCsWjQefvE2eV-maVq6nMecGmnv3rZR1ibdMwMKVyT.CJ19qlpATwb-PC-g)|
+|Shipping high performance Web Apps with Datadog and Real User Monitoring| - |[\[zoom\]](https://gitnation.zoom.us/rec/share/e1qF682f9HlRqoJsNZ_lrCdeCfRx-ZJs3tx5Vkeik3wjgDl2jJ4VfDup5M2sLKZJ.7onpqAzAw0CYitZz)|
 
 
 
