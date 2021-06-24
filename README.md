@@ -163,6 +163,8 @@
 
 </div>
 
+<hr />
+<br />
 
 
 - ***AWS Machine Learning - Udacity***
