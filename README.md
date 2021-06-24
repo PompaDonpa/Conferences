@@ -132,7 +132,7 @@
 
 <div align="center">
 
-  | <sub>Contentful</sub> |   |   | <sub>Rollbar</sub> |   |   |
+| <sub>Contentful</sub> |   |   | <sub>Rollbar</sub> |   |   |
 |:----------:|:-:|:-:|:----------:|:-:|:-:|
 |Resources| - |[\[video\]](https://www.contentful.com/resources/compose-and-launch/watch/?utm_medium=email&utm_source=newsletter&utm_campaign=may-2021-pre-customer-newsletter&utm_content=compose-and-launch&mkt_tok=NTk3LVBXUC0xNTYAAAF9KQ3DZVGIikp4lOMibeAFHQYvA1IxOhb7XdhXGK5UTOJD2IBzKHRIxol4RoD-f229Anj-8YScR7P4Qg6P-f0JhW8KW-HIUD0x1hfS5HM59Ob8) | | - | |
 |Agile personalization| - |[\[video\]](https://www.contentful.com/resources/agile-personalization-uniform-webinar/watch/)|Accelerating Code Quality with the DORA Metrics| - |[\[video\]](https://www.youtube.com/watch?v=J9FbG-BNdAM)|
@@ -143,29 +143,17 @@
 
 
 
-
-- ***Front End Test Fest***
-  - [Applitools](https://www.youtube.com/playlist?list=PLkqF-NUszJY5NJJwIfFezmKLG8j6AEpKD)
-  - [Cypress](https://www.youtube.com/playlist?list=PL8GlT7H3xOcIXrl0nXmyDBYztCKcVqQQg)
-
-
-
-
-
-
-
-
-
-<h3><b>Retool</b></h3>
-
+<div align="center">
+  <div align="center" display="block"><h3><b>Front End Test Fest&emsp;&emsp;-&emsp;&emsp;Retool</b></h3></div>
+</div>
 
 <div align="center">
-  
-| Conference |   |   |
-|:----------:|:-:|:-:|
-|Getting Started| - |[\[site\]](https://docs.retool.com/docs/quickstart)|
-|Template Library| - |[\[site\]](https://retool.com/templates/?utm_medium=email&_hsmi=126376023&_hsenc=p2ANqtz-89uHxvVgP_TJFvAbCj6rwPSQg5tW4t59GaEv6xtEp4cRByxbieWteBU0kwCs57XdBVbGuIc-3sDJcFRlOBwL7LMWoIGxkQtJbCMo6GPm2bceBN3z8&utm_content=126376023&utm_source=hs_automation)|
 
+| <sub>Front End Test Fest</sub> |   |   | <sub>Retool</sub> |   |   |
+|:----------:|:-:|:-:|:----------:|:-:|:-:|
+|Applitools| - |[\[site\]](https://www.youtube.com/playlist?list=PLkqF-NUszJY5NJJwIfFezmKLG8j6AEpKD)|Getting Started| - |[\[site\]](https://docs.retool.com/docs/quickstart)|
+|Cypress| - |[\[site\]](https://www.youtube.com/playlist?list=PL8GlT7H3xOcIXrl0nXmyDBYztCKcVqQQg)|Template Library| - |[\[site\]](https://retool.com/templates/?utm_medium=email&_hsmi=126376023&_hsenc=p2ANqtz-89uHxvVgP_TJFvAbCj6rwPSQg5tW4t59GaEv6xtEp4cRByxbieWteBU0kwCs57XdBVbGuIc-3sDJcFRlOBwL7LMWoIGxkQtJbCMo6GPm2bceBN3z8&utm_content=126376023&utm_source=hs_automation)|
+  
 </div>
 
 
