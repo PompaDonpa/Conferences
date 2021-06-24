@@ -127,7 +127,7 @@
 
 <div align="center">
 
-| <h4><b>Contentful</b></h4> |   | <h4><b>Rollbar</b></h4> |  |
+| <h3><b>Contentful</b></h3> |   | <h3><b>Rollbar</b></h3> |  |
 |:----------:|:-:|:----------:|:-:|
 |Resources|[\[video\]](https://www.contentful.com/resources/compose-and-launch/watch/?utm_medium=email&utm_source=newsletter&utm_campaign=may-2021-pre-customer-newsletter&utm_content=compose-and-launch&mkt_tok=NTk3LVBXUC0xNTYAAAF9KQ3DZVGIikp4lOMibeAFHQYvA1IxOhb7XdhXGK5UTOJD2IBzKHRIxol4RoD-f229Anj-8YScR7P4Qg6P-f0JhW8KW-HIUD0x1hfS5HM59Ob8) | | |
 |Agile personalization|[\[video\]](https://www.contentful.com/resources/agile-personalization-uniform-webinar/watch/)|Accelerating Code Quality with the DORA Metrics|[\[video\]](https://www.youtube.com/watch?v=J9FbG-BNdAM)|
@@ -142,7 +142,7 @@
 
 <div align="center">
 
-| <h4><b>Front end fest</b></h4> |  | <h4><b>Retool</b></h4> |   | <h4><b>HashiCorp</b></h4> |  | <h4><b>Reign</b></h4> |   |
+| <h3><b>Front end fest</b></h3> |  | <h3><b>Retool</b></h3> |   | <h3><b>HashiCorp</b></h3> |  | <h3><b>Reign</b></h3> |   |
 |:----------:|:-:|:----------:|:-:|:----------:|:-:|:----------:|:-:|
 |Applitools|[\[site\]](https://www.youtube.com/playlist?list=PLkqF-NUszJY5NJJwIfFezmKLG8j6AEpKD)|Getting Started|[\[site\]](https://docs.retool.com/docs/quickstart)|June Conference|[\[room\]](https://live.hashiconf.com/schedule) |Sessions|[\[live\]](https://headless-week-latam.reign.cl/es/)|
 |Cypress|[\[site\]](https://www.youtube.com/playlist?list=PL8GlT7H3xOcIXrl0nXmyDBYztCKcVqQQg)|Template Library|[\[site\]](https://retool.com/templates/?utm_medium=email&_hsmi=126376023&_hsenc=p2ANqtz-89uHxvVgP_TJFvAbCj6rwPSQg5tW4t59GaEv6xtEp4cRByxbieWteBU0kwCs57XdBVbGuIc-3sDJcFRlOBwL7LMWoIGxkQtJbCMo6GPm2bceBN3z8&utm_content=126376023&utm_source=hs_automation)|
@@ -157,7 +157,7 @@
 
 <div align="center">
 
-| <h2><b>Docker Live</b></h2> |  | <h2><b>Vue StoreFront</b></h2> |   | <h2><b>Geekle</b></h2> |  | <h2><b>Applitools</b></h2> |   |
+| <h3><b>Docker Live</b></h3> |  | <h3><b>Vue StoreFront</b></h3> |   | <h3><b>Geekle</b></h3> |  | <h3><b>Applitools</b></h3> |   |
 |:----------:|:-:|:----------:|:-:|:----------:|:-:|:----------:|:-:|
 |On Demand|[\[video\]](https://email.docker.com/OTI5LUZKTC0xNzgAAAF9cPStRpKHp2gusiwlPFBazQYEWeDjm5ltptEvn30ews01qOqBkQd_-_K2s8Li_Qa9x_WP2g0=)|Summit 2021|[\[youtube\]](https://www.youtube.com/playlist?list=PLIDwzUVxSXjOogIRgKI-RLXw40oce86W2)|React Case Study Festival|[\[youtube\]](https://www.youtube.com/playlist?list=PLnQIVBzL8WX4mocytpMsdKgsN_jh60qKN)|Transforming Software|[\[video\]](https://www.brighttalk.com/webcast/6505/491756?utm_campaign=communication_viewer_followup&utm_medium=email&utm_source=brighttalk-transact&utm_content=webcast)|
 
