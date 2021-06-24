@@ -126,8 +126,10 @@
 
 
 
-<h3><b>Contentful</b></h3>
+<div align="center"><h3><b>Contentful</b></h3><h3><b>Rollbar</b></h3></div>
+
 <div align="center">
+<div align="left">
   
 | Conference |   |   |
 |:----------:|:-:|:-:|
@@ -138,10 +140,7 @@
 
 </div>
 
-
-<h3><b>Rollbar</b></h3>
-
-<div align="center">
+<div align="right">
 
 | Conference |   |   |
 |:----------:|:-:|:-:|
@@ -149,6 +148,19 @@
 |JavaScript Guides| - |[\[Doc\]](https://rollbar.com/guides/javascript/?utm_campaign=growth-gitnation-the-welcome-email&utm_medium=email&_hsmi=134586061&_hsenc=p2ANqtz-_GhoS4JdtGJCG_MaUKTM222QgiSClBPPhGaSkPaEbELqRXfKcf0JFp6nsyJG2lt0ZjBMmdH7QSTl38kR9qzaebredEVxuT-SIKdSoyCU2w9DaxbwY&utm_source=hubspot)  |
 
 </div>
+</div>
+
+
+- ***Front End Test Fest***
+  - [Applitools](https://www.youtube.com/playlist?list=PLkqF-NUszJY5NJJwIfFezmKLG8j6AEpKD)
+  - [Cypress](https://www.youtube.com/playlist?list=PL8GlT7H3xOcIXrl0nXmyDBYztCKcVqQQg)
+
+
+
+
+
+
+
 
 
 <h3><b>Retool</b></h3>
@@ -200,9 +212,10 @@
 |React Case Study Festival| - |[\[youtube\]](https://www.youtube.com/playlist?list=PLnQIVBzL8WX4mocytpMsdKgsN_jh60qKN)|
 
 
-- ***Front End Test Fest***
-  - [Applitools](https://www.youtube.com/playlist?list=PLkqF-NUszJY5NJJwIfFezmKLG8j6AEpKD)
-  - [Cypress](https://www.youtube.com/playlist?list=PL8GlT7H3xOcIXrl0nXmyDBYztCKcVqQQg)
+
+
+
+
 - ***Applitools***
   - Transforming Software Development through a Modern Feedback Loop &emsp;[\[video\]](https://www.brighttalk.com/webcast/6505/491756?utm_campaign=communication_viewer_followup&utm_medium=email&utm_source=brighttalk-transact&utm_content=webcast)  
 
