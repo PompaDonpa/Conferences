@@ -127,31 +127,21 @@
 
 
 <div align="center">
-  <div align="left" display="inline-block"><h3><b>Contentful</b></h3></div>
-  <div align="right" display="inline-block"><h3><b>Rollbar</b></h3></div>
+  <div align="center" display="block"><h3><b>Contentful&emsp;&emsp;-&emsp;&emsp;Rollbar</b></h3></div>
 </div>
 
 <div align="center">
-<div align="left">
-  
-| Conference |   |   |
-|:----------:|:-:|:-:|
-|Resources| - |[\[video\]](https://www.contentful.com/resources/compose-and-launch/watch/?utm_medium=email&utm_source=newsletter&utm_campaign=may-2021-pre-customer-newsletter&utm_content=compose-and-launch&mkt_tok=NTk3LVBXUC0xNTYAAAF9KQ3DZVGIikp4lOMibeAFHQYvA1IxOhb7XdhXGK5UTOJD2IBzKHRIxol4RoD-f229Anj-8YScR7P4Qg6P-f0JhW8KW-HIUD0x1hfS5HM59Ob8) |
-|Agile personalization| - |[\[video\]](https://www.contentful.com/resources/agile-personalization-uniform-webinar/watch/)|
-|Global marketing and localization| - |[\[video\]](https://www.contentful.com/resources/product-demo-global-marketing-localization/?utm_medium=email&utm_source=newsletter&utm_campaign=june-2021-pre-customer-newsetter&utm_content=product-demo&mkt_tok=NTk3LVBXUC0xNTYAAAF9uUB_d-CDjEhcAKhKzAl-Z98M5lTQew7fUTwD4nxSgFl7us4C9NR-EUutsze-phBjs7uTH4aCQa5TNXWYwVKyyuRGLicFPC_ZBujmLcbMstvv)|
-|| - ||
+
+  | <sub>Contentful</sub> |   |   | <sub>Rollbar</sub> |   |   |
+|:----------:|:-:|:-:|:----------:|:-:|:-:|
+|Resources| - |[\[video\]](https://www.contentful.com/resources/compose-and-launch/watch/?utm_medium=email&utm_source=newsletter&utm_campaign=may-2021-pre-customer-newsletter&utm_content=compose-and-launch&mkt_tok=NTk3LVBXUC0xNTYAAAF9KQ3DZVGIikp4lOMibeAFHQYvA1IxOhb7XdhXGK5UTOJD2IBzKHRIxol4RoD-f229Anj-8YScR7P4Qg6P-f0JhW8KW-HIUD0x1hfS5HM59Ob8) | | - | |
+|Agile personalization| - |[\[video\]](https://www.contentful.com/resources/agile-personalization-uniform-webinar/watch/)|Accelerating Code Quality with the DORA Metrics| - |[\[video\]](https://www.youtube.com/watch?v=J9FbG-BNdAM)|
+|Global marketing and localization| - |[\[video\]](https://www.contentful.com/resources/product-demo-global-marketing-localization/?utm_medium=email&utm_source=newsletter&utm_campaign=june-2021-pre-customer-newsetter&utm_content=product-demo&mkt_tok=NTk3LVBXUC0xNTYAAAF9uUB_d-CDjEhcAKhKzAl-Z98M5lTQew7fUTwD4nxSgFl7us4C9NR-EUutsze-phBjs7uTH4aCQa5TNXWYwVKyyuRGLicFPC_ZBujmLcbMstvv)|JavaScript Guides| - |[\[Doc\]](https://rollbar.com/guides/javascript/?utm_campaign=growth-gitnation-the-welcome-email&utm_medium=email&_hsmi=134586061&_hsenc=p2ANqtz-_GhoS4JdtGJCG_MaUKTM222QgiSClBPPhGaSkPaEbELqRXfKcf0JFp6nsyJG2lt0ZjBMmdH7QSTl38kR9qzaebredEVxuT-SIKdSoyCU2w9DaxbwY&utm_source=hubspot)  |
 
 </div>
 
-<div align="right">
 
-| Conference |   |   |
-|:----------:|:-:|:-:|
-|Accelerating Code Quality with the DORA Metrics| - |[\[video\]](https://www.youtube.com/watch?v=J9FbG-BNdAM)|
-|JavaScript Guides| - |[\[Doc\]](https://rollbar.com/guides/javascript/?utm_campaign=growth-gitnation-the-welcome-email&utm_medium=email&_hsmi=134586061&_hsenc=p2ANqtz-_GhoS4JdtGJCG_MaUKTM222QgiSClBPPhGaSkPaEbELqRXfKcf0JFp6nsyJG2lt0ZjBMmdH7QSTl38kR9qzaebredEVxuT-SIKdSoyCU2w9DaxbwY&utm_source=hubspot)  |
 
-</div>
-</div>
 
 
 - ***Front End Test Fest***
