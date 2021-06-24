@@ -35,9 +35,7 @@
 
 # FullStack
 
-<h3><b>JS Nation</b></h3>
-
-
+<div align="center"><h3><b>JS Nation</b></h3></div>
 <div align="center">
   
 | Workshop |   |   |
@@ -57,7 +55,6 @@
 
 <div align="center">
 
-
 |Conference|   |   |   |
 |:--------:|:-:|:-:|:-:|
 |Full Stack Cloud Development with Next.js, AWS, and Tailwin&ensp;| - |[\[video\]](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-)|&emsp;[\[repo\]](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)&emsp;|
@@ -71,22 +68,7 @@
 </div>
 
 
-
-<h3><b>Sysdig</b></h3>
-
-<div align="center">
-
-| Conference |   |   |   |   |   
-|:----------:|:-:|:-:|:-:|:-:|
-|Top Dockerfile Security Best Practices| - |[\[video\]](https://sysdig.com/resources/webinars/top-dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLblxYI8czYgsrduWZIlnUDuF5QH4QShZY2uhucuJwhXlera5-lHA-oZjNXIJ1lhhJd7SOgjLxVSLVWW7DU31odcAgvMm9lnpGUXS1IQg)|[\[Presentation\]](https://sysdig.com/blog/dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLbunZy8GyRtzyKb7TX37eiD3guHeHI8tQvDnRO1D2I0rxd63qKb4-i3uNdSOBqzIpJ8BJs1j9498qaod9KEDKruNpww9JI1TaZmY-6Sg)|
-|Dockerfile Best Practices| - |[\[Doc\]](https://dig.sysdig.com/c/pf-2020-container-security-snapshot?x=u_WFRi&topic=Kubernetes)|[\[Doc\]](https://dig.sysdig.com/c/pf-ebook-monitoring-docker-containers?x=u_WFRi&utm_source=gated-organic&utm_medium=website)|[\[Falco Security Rules\]](https://sysdig.com/blog/docker-falco-security/)|
-|Embedding security throughout your DevOps workflows| - |[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9vxHAjSyMsLkwpHpwmx0SZ4hTfAiQ9HnDMfWhRwJUbyALePfOsZztMrbM6-H2g4PNMf2FBhE=)| | |
-
-</div>
-
-
-<h3><b>Mongo DB</b></h3>
-
+<div align="center"><h3><b>Mongo DB</b></h3></div>
 <div align="center">
 
 | Conference |   |   |   |
@@ -100,8 +82,7 @@
 
 
 
-<h3><b>AWS</b></h3>
-
+<div align="center"><h3><b>AWS</b></h3></div>
 <div align="center">
 
 | Conference |   |   |   |
@@ -115,9 +96,22 @@
 
 
 
+<div align="center"><h3><b>Sysdig</b></h3></div>
+<div align="center">
+
+| Conference |   |   |   |   |   
+|:----------:|:-:|:-:|:-:|:-:|
+|Top Dockerfile Security Best Practices| - |[\[video\]](https://sysdig.com/resources/webinars/top-dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLblxYI8czYgsrduWZIlnUDuF5QH4QShZY2uhucuJwhXlera5-lHA-oZjNXIJ1lhhJd7SOgjLxVSLVWW7DU31odcAgvMm9lnpGUXS1IQg)|[\[Presentation\]](https://sysdig.com/blog/dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLbunZy8GyRtzyKb7TX37eiD3guHeHI8tQvDnRO1D2I0rxd63qKb4-i3uNdSOBqzIpJ8BJs1j9498qaod9KEDKruNpww9JI1TaZmY-6Sg)|
+|Dockerfile Best Practices| - |[\[Doc\]](https://dig.sysdig.com/c/pf-2020-container-security-snapshot?x=u_WFRi&topic=Kubernetes)|[\[Doc\]](https://dig.sysdig.com/c/pf-ebook-monitoring-docker-containers?x=u_WFRi&utm_source=gated-organic&utm_medium=website)|[\[Falco Security Rules\]](https://sysdig.com/blog/docker-falco-security/)|
+|Embedding security throughout your DevOps workflows| - |[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9vxHAjSyMsLkwpHpwmx0SZ4hTfAiQ9HnDMfWhRwJUbyALePfOsZztMrbM6-H2g4PNMf2FBhE=)| | |
+
+</div>
+
+
+
+
+
 <h3><b>Contentful</b></h3>
-
-
 <div align="center">
   
 | Conference |   |   |
