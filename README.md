@@ -71,44 +71,81 @@
 
 ### - ***Sysdig***
 
-| Conference |   |   |   |   |   |    
-|:----------:|:-:|:-:|:-:|:-:|:-:|
+| Conference |   |   |   |   |   
+|:----------:|:-:|:-:|:-:|:-:|
 |Top Dockerfile Security Best Practices| - |[\[video\]](https://sysdig.com/resources/webinars/top-dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLblxYI8czYgsrduWZIlnUDuF5QH4QShZY2uhucuJwhXlera5-lHA-oZjNXIJ1lhhJd7SOgjLxVSLVWW7DU31odcAgvMm9lnpGUXS1IQg)|[\[Presentation\]](https://sysdig.com/blog/dockerfile-best-practices/?mkt_tok=MDY3LVFaVC04ODEAAAF9cadLbunZy8GyRtzyKb7TX37eiD3guHeHI8tQvDnRO1D2I0rxd63qKb4-i3uNdSOBqzIpJ8BJs1j9498qaod9KEDKruNpww9JI1TaZmY-6Sg)|
 |Dockerfile Best Practices| - |[\[Doc\]](https://dig.sysdig.com/c/pf-2020-container-security-snapshot?x=u_WFRi&topic=Kubernetes)|[\[Doc\]](https://dig.sysdig.com/c/pf-ebook-monitoring-docker-containers?x=u_WFRi&utm_source=gated-organic&utm_medium=website)|[\[Falco Security Rules\]](https://sysdig.com/blog/docker-falco-security/)|
-|| - |[\[video\]]|
-|| - |[\[video\]]|
+|Embedding security throughout your DevOps workflows| - |[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9vxHAjSyMsLkwpHpwmx0SZ4hTfAiQ9HnDMfWhRwJUbyALePfOsZztMrbM6-H2g4PNMf2FBhE=)| | |
 
 
 
+### - ***Contentful***
+
+| Conference |   |   |
+|:----------:|:-:|:-:|
+|Resources| - |[\[video\]](https://www.contentful.com/resources/compose-and-launch/watch/?utm_medium=email&utm_source=newsletter&utm_campaign=may-2021-pre-customer-newsletter&utm_content=compose-and-launch&mkt_tok=NTk3LVBXUC0xNTYAAAF9KQ3DZVGIikp4lOMibeAFHQYvA1IxOhb7XdhXGK5UTOJD2IBzKHRIxol4RoD-f229Anj-8YScR7P4Qg6P-f0JhW8KW-HIUD0x1hfS5HM59Ob8) |
+|Agile personalization| - |[\[video\]](https://www.contentful.com/resources/agile-personalization-uniform-webinar/watch/)|
+|Global marketing and localization| - |[\[video\]](https://www.contentful.com/resources/product-demo-global-marketing-localization/?utm_medium=email&utm_source=newsletter&utm_campaign=june-2021-pre-customer-newsetter&utm_content=product-demo&mkt_tok=NTk3LVBXUC0xNTYAAAF9uUB_d-CDjEhcAKhKzAl-Z98M5lTQew7fUTwD4nxSgFl7us4C9NR-EUutsze-phBjs7uTH4aCQa5TNXWYwVKyyuRGLicFPC_ZBujmLcbMstvv)|
+|| - ||
 
 
-  - Dockerfile Best Practices &emsp;[\[Doc - 1\]](https://dig.sysdig.com/c/pf-2020-container-security-snapshot?x=u_WFRi&topic=Kubernetes)&ensp;-&ensp;[\[Doc - 2\]](https://dig.sysdig.com/c/pf-ebook-monitoring-docker-containers?x=u_WFRi&utm_source=gated-organic&utm_medium=website)&ensp;-&ensp;[\[Falco Security Rules\]](https://sysdig.com/blog/docker-falco-security/)
+### - ***Reign***
+
+| Conference |   |   |
+|:----------:|:-:|:-:|
+|Sessions| - |[\[live\]](https://headless-week-latam.reign.cl/es/)|
 
 
-  - Embedding security throughout your DevOps workflows &emsp;[\[video\]](https://info.sysdig.com/MDY3LVFaVC04ODEAAAF9vxHAjSyMsLkwpHpwmx0SZ4hTfAiQ9HnDMfWhRwJUbyALePfOsZztMrbM6-H2g4PNMf2FBhE=)
-- ***Contentful***
-  - Resources &emsp;[\[video\]](https://www.contentful.com/resources/compose-and-launch/watch/?utm_medium=email&utm_source=newsletter&utm_campaign=may-2021-pre-customer-newsletter&utm_content=compose-and-launch&mkt_tok=NTk3LVBXUC0xNTYAAAF9KQ3DZVGIikp4lOMibeAFHQYvA1IxOhb7XdhXGK5UTOJD2IBzKHRIxol4RoD-f229Anj-8YScR7P4Qg6P-f0JhW8KW-HIUD0x1hfS5HM59Ob8) 
-  - Agile personalization &emsp;[\[video\]](https://www.contentful.com/resources/agile-personalization-uniform-webinar/watch/)
-  - Global marketing and localization &emsp;[\[video\]](https://www.contentful.com/resources/product-demo-global-marketing-localization/?utm_medium=email&utm_source=newsletter&utm_campaign=june-2021-pre-customer-newsetter&utm_content=product-demo&mkt_tok=NTk3LVBXUC0xNTYAAAF9uUB_d-CDjEhcAKhKzAl-Z98M5lTQew7fUTwD4nxSgFl7us4C9NR-EUutsze-phBjs7uTH4aCQa5TNXWYwVKyyuRGLicFPC_ZBujmLcbMstvv)
-- ***Reign***
-  - Sessions &emsp;[\[live\]](https://headless-week-latam.reign.cl/es/)
-- ***Rollbar***
-  - Accelerating Code Quality with the DORA Metrics &emsp;[\[video\]](https://www.youtube.com/watch?v=J9FbG-BNdAM)
-  - JavaScript Guides &emsp;[\[Doc\]](https://rollbar.com/guides/javascript/?utm_campaign=growth-gitnation-the-welcome-email&utm_medium=email&_hsmi=134586061&_hsenc=p2ANqtz-_GhoS4JdtGJCG_MaUKTM222QgiSClBPPhGaSkPaEbELqRXfKcf0JFp6nsyJG2lt0ZjBMmdH7QSTl38kR9qzaebredEVxuT-SIKdSoyCU2w9DaxbwY&utm_source=hubspot)  
-- ***Retool***
-  - [\[Template Libray\]](https://retool.com/templates/?utm_medium=email&_hsmi=126376023&_hsenc=p2ANqtz-89uHxvVgP_TJFvAbCj6rwPSQg5tW4t59GaEv6xtEp4cRByxbieWteBU0kwCs57XdBVbGuIc-3sDJcFRlOBwL7LMWoIGxkQtJbCMo6GPm2bceBN3z8&utm_content=126376023&utm_source=hs_automation)&emsp;[\[ Getting Started \]](https://docs.retool.com/docs/quickstart)
-- ***HashiCorp Summit***
-  - June Conference &emsp;[\[room\]](https://live.hashiconf.com/schedule) 
-- ***Geekle***
-  - React Case Study Festival &emsp;[\[youtube\]](https://www.youtube.com/playlist?list=PLnQIVBzL8WX4mocytpMsdKgsN_jh60qKN)
-- ***MongoDB***
-  - MongoDB.live 2021 &emsp;[\[site\]](https://www.mongodb.com/live/agenda?utm_campaign=Int_MW_MongoDB.live_07_21_WW_Agenda%20Announced%20REGISTRANTS&utm_medium=email&utm_source=eloqua&utm_term=%C3%B0%C2%9F%C2%93%C2%A3%20It%27s%20here%21%20See%20the%20full%20session%20agenda%20for%20MongoDB.live) 
-  - A Complete Methodology of Data Modeling for MongoDB &emsp;[\[video\]](https://www.mongodb.com/presentations/a-complete-methodology-of-data-modeling-for-mongodb?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)
-  - Data Modeling University Course &emsp;[\[page\]](https://university.mongodb.com/courses/M320/about?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)
-  - An Introduction to MongoDB Query API &emsp;[\[video\]](https://www.mongodb.com/presentations/an-introduction-to-mongodb-query-api-webinar-recording-na?p=607f1965b1a6404e1b57972b&utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)&emsp;-&emsp;[\[ documentation \]](https://docs.mongodb.com/manual/crud/?utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)
-  - 
-- ***Vue StoreFront***
+### - ***Rollbar***
+
+| Conference |   |   |
+|:----------:|:-:|:-:|
+|Accelerating Code Quality with the DORA Metrics| - |[\[video\]](https://www.youtube.com/watch?v=J9FbG-BNdAM)|
+|JavaScript Guides| - |[\[Doc\]](https://rollbar.com/guides/javascript/?utm_campaign=growth-gitnation-the-welcome-email&utm_medium=email&_hsmi=134586061&_hsenc=p2ANqtz-_GhoS4JdtGJCG_MaUKTM222QgiSClBPPhGaSkPaEbELqRXfKcf0JFp6nsyJG2lt0ZjBMmdH7QSTl38kR9qzaebredEVxuT-SIKdSoyCU2w9DaxbwY&utm_source=hubspot)  |
+
+
+
+### - ***Retool***
+
+| Conference |   |   |
+|:----------:|:-:|:-:|
+|Getting Started| - |[\[site\]](https://docs.retool.com/docs/quickstart)|
+|Template Library| - |[\[site\]](https://retool.com/templates/?utm_medium=email&_hsmi=126376023&_hsenc=p2ANqtz-89uHxvVgP_TJFvAbCj6rwPSQg5tW4t59GaEv6xtEp4cRByxbieWteBU0kwCs57XdBVbGuIc-3sDJcFRlOBwL7LMWoIGxkQtJbCMo6GPm2bceBN3z8&utm_content=126376023&utm_source=hs_automation)|
+
+
+### - ***HashiCorp Summit***
+
+| Conference |   |   |
+|:----------:|:-:|:-:|
+|June Conference| - |[\[room\]](https://live.hashiconf.com/schedule) |
+
+
+
+### - ***Geekle***
+
+| Conference |   |   |
+|:----------:|:-:|:-:|
+|React Case Study Festival| - |[\[youtube\]](https://www.youtube.com/playlist?list=PLnQIVBzL8WX4mocytpMsdKgsN_jh60qKN)|
+
+
+### - ***MongoDB***
+
+
+| Conference |   |   |   |
+|:----------:|:-:|:-:|:-:|
+|MongoDB.live 202| - |[\[site\]](https://www.mongodb.com/live/agenda?utm_campaign=Int_MW_MongoDB.live_07_21_WW_Agenda%20Announced%20REGISTRANTS&utm_medium=email&utm_source=eloqua&utm_term=%C3%B0%C2%9F%C2%93%C2%A3%20It%27s%20here%21%20See%20the%20full%20session%20agenda%20for%20MongoDB.live)| |
+|A Complete Methodology of Data Modeling for MongoDB| - |[\[video\]](https://www.mongodb.com/presentations/a-complete-methodology-of-data-modeling-for-mongodb?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)| |
+|Data Modeling University Course| - |[\[page\]](https://university.mongodb.com/courses/M320/about?utm_campaign=int_en_mid_funnel_nurture_developer_technical_user_101_08_20_ww)| |
+|An Introduction to MongoDB Query API| - |[\[video\]](https://www.mongodb.com/presentations/an-introduction-to-mongodb-query-api-webinar-recording-na?p=607f1965b1a6404e1b57972b&utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)|[\[ documentation \]](https://docs.mongodb.com/manual/crud/?utm_campaign=Int_WB_Intro%20to%20MongoDB%20API_04_21_WW_Follow%20up%20%28NA%29&utm_medium=email&utm_source=eloqua&utm_term=%5BWebinar%20Recording%5D%20An%20Introduction%20to%20MongoDB%20Query%20API%20Webinar)
+
+
+
+### - ***Vue StoreFront***
+
+
   - Summit 2021 &emsp;[\[youtube\]](https://www.youtube.com/playlist?list=PLIDwzUVxSXjOogIRgKI-RLXw40oce86W2) 
+
+
 
 - ***AWS***
   - How to use Infrastructure as Code to achieve DevOps at scale &emsp;[\[video\]](https://pages.awscloud.com/awsmp-h2-dev-infrastructure-as-code-for-devops-at-scale-ty.html)
