@@ -126,7 +126,10 @@
 
 
 
-<div align="center"><h3><b>Contentful</b></h3><h3><b>Rollbar</b></h3></div>
+<div align="center">
+  <div align="left" display="inline-block"><h3><b>Contentful</b></h3></div>
+  <div align="right" display="inline-block"><h3><b>Rollbar</b></h3></div>
+</div>
 
 <div align="center">
 <div align="left">
