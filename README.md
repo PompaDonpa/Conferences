@@ -127,12 +127,8 @@
 
 
 <div align="center">
-  <div align="center" display="block"><h3><b>Contentful&emsp;&emsp;-&emsp;&emsp;Rollbar</b></h3></div>
-</div>
 
-<div align="center">
-
-| <sub>Contentful</sub> |   |   | <sub>Rollbar</sub> |   |   |
+| <h4><b>Contentful</b></h4> |   |   | <h4><b>Rollbar</b></h4> |   |   |
 |:----------:|:-:|:-:|:----------:|:-:|:-:|
 |Resources| - |[\[video\]](https://www.contentful.com/resources/compose-and-launch/watch/?utm_medium=email&utm_source=newsletter&utm_campaign=may-2021-pre-customer-newsletter&utm_content=compose-and-launch&mkt_tok=NTk3LVBXUC0xNTYAAAF9KQ3DZVGIikp4lOMibeAFHQYvA1IxOhb7XdhXGK5UTOJD2IBzKHRIxol4RoD-f229Anj-8YScR7P4Qg6P-f0JhW8KW-HIUD0x1hfS5HM59Ob8) | | - | |
 |Agile personalization| - |[\[video\]](https://www.contentful.com/resources/agile-personalization-uniform-webinar/watch/)|Accelerating Code Quality with the DORA Metrics| - |[\[video\]](https://www.youtube.com/watch?v=J9FbG-BNdAM)|
