@@ -69,7 +69,7 @@
 
 
 <hr />
-
+<br />
 
 <div align="center"><h3><b>Mongo DB</b></h3></div>
 <div align="center">
@@ -86,7 +86,7 @@
 
 
 <hr />
-
+<br />
 
 
 <div align="center"><h3><b>AWS</b></h3></div>
@@ -104,6 +104,7 @@
 
 
 <hr />
+<br />
 
 
 
@@ -119,10 +120,8 @@
 </div>
 
 
-
-
 <hr />
-
+<br />
 
 
 
@@ -138,6 +137,7 @@
 
 
 <hr />
+<br />
 
 
 <div align="center">
@@ -150,23 +150,8 @@
 </div>
 
 
-
-
-
-### - ***HashiCorp Summit***
-
-| Conference |   |   |
-|:----------:|:-:|:-:|
-|June Conference|[\[room\]](https://live.hashiconf.com/schedule) |
-
-### - ***Reign***
-
-| Conference |   |   |
-|:----------:|:-:|:-:|
-|Sessions|[\[live\]](https://headless-week-latam.reign.cl/es/)|
-
-
-
+<hr />
+<br />
 
 
 ### - ***Docker Live***
