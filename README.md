@@ -57,13 +57,13 @@
 
 |Conference|   |   |
 |:--------:|:-:|:-:|
-|Full Stack Cloud Development with Next.js, AWS, and Tailwin&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-)|&emsp;[\[repo\]](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)&emsp;|
-|Getting Comfortable with Angular and UI&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL)| |
-|The Crash Course for Continuous Code Improvement&ensp;|[video](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)| |
-|Jamstack eCommerce 101&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)| |
-|S Security Testing in GitHub Actions&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)| |
-|Build React-like apps for internal tooling 10x faster with Retool&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/Q-4CJ9aJs8X21E0S65crCGvZ48zly1aClgGAGdya9NV5rfDIyp1RlEuSON7e43as.27O_60ftPLAj_ExK)| |
-|Publishing, Automating and Monitoring your JS App on Azure&ensp;|[\[video\]](https://gitnation.zoom.us/rec/share/C9KrMQranjmwo6Pk7YVciqksGtjffNJG7tU87O4j7Gc5Nv8y8BH_5XJvb9H_UjcI.yvkAdB64QI0ccns8)| |
+|Full Stack Cloud Development with Next.js, AWS, and Tailwin&ensp;|&ensp;[\[repo\]](https://github.com/dabit3/next.js-amplify-workshop#getting-started---creating-the-nextjs-application)&emsp;|[\[video\]](https://gitnation.zoom.us/rec/share/-DDtq6M4FS5TMazprT2QUQ4lfTv_n0YX9-k3bKAUGdmqhMK-JyP-reJN5MURZAtZ.AVMvb7LP5xPv_ap-)|
+|Getting Comfortable with Angular and UI&ensp;| |[\[video\]](https://gitnation.zoom.us/rec/share/imJKWcDRL6BMX4lwnXWTk7OKRSJyV7xZ25PP_ViZ5VYrQF1BiIcyI1VkDcetCNih.uHyRySBPTHt_N1BL)|
+|The Crash Course for Continuous Code Improvement&ensp;| |[\[video\]](https://gitnation.zoom.us/rec/share/4dBdjU1zQm3jeNKgPTHu5uZMlneA0pLVAPKcAtxWketXU9cIpCIQFPPRT0z4EkGq.J7X5TxyjZuXmg1Vz)|
+|Jamstack eCommerce 101&ensp;| |[\[video\]](https://gitnation.zoom.us/rec/share/L1IYENbViamMOyuouhuAzEoNPSquH7N-waxqUDTESx_tG6l1HHlH1F89XWZ3V08n.CdjAnVmq0NAW39Hg)|
+|S Security Testing in GitHub Actions&ensp;| |[\[video\]](https://gitnation.zoom.us/rec/share/JQ_PtEeLNQ65pKsGbCG0SqjhzcetVyAX9LdBrCyGH1U48UpJ-wrf018Q5fjs3s4L.gYhq-M4Y7DdsQt8p)|
+|Build React-like apps for internal tooling 10x faster with Retool&ensp;| |[\[video\]](https://gitnation.zoom.us/rec/share/Q-4CJ9aJs8X21E0S65crCGvZ48zly1aClgGAGdya9NV5rfDIyp1RlEuSON7e43as.27O_60ftPLAj_ExK)|
+|Publishing, Automating and Monitoring your JS App on Azure&ensp;| |[\[video\]](https://gitnation.zoom.us/rec/share/C9KrMQranjmwo6Pk7YVciqksGtjffNJG7tU87O4j7Gc5Nv8y8BH_5XJvb9H_UjcI.yvkAdB64QI0ccns8)|
 
 </div>
 
