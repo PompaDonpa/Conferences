@@ -165,7 +165,3 @@
 
 <hr />
 <br />
-
-
-- ***AWS Machine Learning - Udacity***
-  - [Status](https://admissions.udacity.com/apply/aws-machine-learning-scholarship/submitted) 
