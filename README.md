@@ -4,7 +4,7 @@
 
 - ***AirSide***
   - Data security and Data privacy &emsp;[\[video\]](https://airside.live/2021/OnDemand)
-- ***TigerGrapsh***
+- ***TigerGraph***
   - Fighting Financial Crimes with Graph Analytics &emsp;[\[video\]](https://www.youtube.com/watch?v=I1e-DjWe2jQ)&ensp;-&ensp;[\[slides\]](https://info.tigergraph.com/hubfs/04.21.21%20Graph%20+%20AI%20Summit/Fighting%20Financial%20Crimes%20-%20Deep%20Dive%20_%20Graph%20AI%20Conference%204.22.21%20V1.pdf?utm_campaign=2020.05%20Graph%20Gurus%2051&utm_medium=email&_hsmi=128301586&_hsenc=p2ANqtz-_pDBjQIY_u9bpdxtMVbQkuPUOzv5apQqFJ6iMS3jrSJ9Kl-HoMLlqPm7nLrSRtqbU3wNZCP8ojMly9C3zCyK4IFhIfFCXptbQZIszjOVSO6IA5t7M&utm_content=128301586&utm_source=hs_email)
   - Graph and Machine-Learning Enhance Trust JP Morgan &emsp;[\[video\]](https://info.tigergraph.com/graph-ai-summit-spring-2021-brad-spiers?utm_campaign=2021%20Spring%20Graph%20AI%20Summit&utm_source=hs_email&utm_medium=email&utm_content=127217924&_hsenc=p2ANqtz-9fDZNBcVQvmg3Fug9C7YvYPB3PWk-6IrbYkxegH9EogRfMiit0TMRWlQBlSZTwnusjmj9G)
   - Fraud Investigations using TigerGraph &emsp;[\[video\]](https://info.tigergraph.com/graph-ai-summit-spring-2021-danny-clark?utm_campaign=2021%20Spring%20Graph%20AI%20Summit&utm_source=hs_email&utm_medium=email&utm_content=127217924&_hsenc=p2ANqtz-9fDZNBcVQvmg3Fug9C7YvYPB3PWk-6IrbYkxegH9EogRfMiit0TMRWlQBlSZTwnusjmj9G)
